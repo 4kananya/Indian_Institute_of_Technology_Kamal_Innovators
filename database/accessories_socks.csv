@@ -1,0 +1,687 @@
+,id,gender,masterCategory,subCategory,articleType,season,year,usage,productDisplayName,Pattern,Material,Length,Colour,Brand,Price
+0,29114,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"Navy Blue, Grey, Black",Puma,399
+1,14603,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 Grey Socks,Not specified,Not specified,Not specified,Grey,United Colors of Benetton,349
+2,49230,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Calzini Men Pack of 5 Sports Socks,Not specified,Cotton,Above Ankle,"Black, Grey, Navy Blue",Calzini,795
+3,46876,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Patterned,"Cotton, Elastane",Above Ankle,"Grey, Black",Lino Perros,249
+4,29113,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,"White, Pink, Blue",Puma,399
+5,14604,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Green Socks,Not specified,Not specified,Not specified,"Green, White, Black",United Colors of Benetton,299
+6,12393,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Black Socks,Not specified,Not specified,Not specified,"Black, Blue, Grey",Reid & Taylor,395
+7,24295,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men Black Socks,Not specified,Not specified,Not specified,Black,Quiksilver,595
+8,41850,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Genesis Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"Black, Grey, Brown",Genesis,399
+9,24292,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men High Black Socks,Not specified,Not specified,Not specified,Black,Quiksilver,595
+10,36333,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White & Red Socks,Solid,"Cotton, Nylon",Above Ankle,"White, Red",Playboy,145
+11,12394,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Black Socks,Not specified,Not specified,Not specified,"Black, Blue, Grey",Reid & Taylor,395
+12,46878,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,Cotton,Above Ankle,"Black, Blue, Grey",Lino Perros,249
+13,36393,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Blue Socks,Solid,Cotton,Above Ankle,Blue,Reid & Taylor,325
+14,24656,Boys,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Boys White Pack of 3 Casual Socks,Not specified,"Cotton, Elastane",Not specified,White,ADIDAS Originals,699
+15,40121,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"White, Navy Blue, Grey",ADIDAS,599
+16,21572,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Lino Perros Men Pack of Five Striped Socks,Not specified,Not specified,Above Knee,Multi,Lino Perros,795
+17,32165,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Pink Ankle Socks,Not specified,Not specified,Above Knee,Pink,Playboy,120
+18,43562,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men White Pack of 3 Socks,Not specified,Not specified,Not specified,White,Puma,399
+19,58318,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+20,37884,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Black Socks,Not specified,Not specified,Not specified,Black,Happy Socks,799
+21,21575,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Lino Perros Men Pack of Five Striped Socks,Not specified,Not specified,Above Knee,Multi,Lino Perros,795
+22,32162,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Black Ankle Socks,Not specified,Not specified,Above Knee,"Black, Green",Playboy,120
+23,49299,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Women Pack Of 5 Socks,Not specified,Cotton,Above Ankle,"Beige, Brown, White",Arrow,995
+24,36394,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Reid & Taylor Blue Socks,Not specified,Not specified,Not specified,Blue,Reid & Taylor,325
+25,58320,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+26,37883,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Multi Color Socks,Not specified,Not specified,Not specified,Multi,Happy Socks,699
+27,37877,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Cream Socks,Not specified,Not specified,Not specified,"Cream, Black",Happy Socks,699
+28,54346,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men 3 Pair Of Socks,Solid,Not specified,Above Ankle,Black,Levis,429
+29,58316,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+30,24658,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Men Pink Casual Socks,Solid,"Cotton, Nylon",Ankle Length,Pink,ADIDAS Originals,249
+31,49290,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Black Pack of 5 Plating Design Socks,Not specified,Cotton,Above Ankle,Black,Arrow,1495
+32,54341,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Socks,Not specified,"Cotton, Nylon",Above Ankle,"Black, White, Navy Blue",Levis,349
+33,24660,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Men Pink Casual Socks,Solid,"Cotton, Nylon",Ankle Length,Pink,ADIDAS Originals,249
+34,37879,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Black Socks,Not specified,Not specified,Not specified,Black,Happy Socks,699
+35,43554,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Cream Socks,Not specified,Not specified,Not specified,Cream,Puma,149
+36,2217,Women,Accessories,Socks,Socks,Fall,2010.0,Sports,ADIDAS Women Pink Socks,Not specified,Not specified,Not specified,Pink,ADIDAS,149
+37,2228,Men,Accessories,Socks,Socks,Fall,2010.0,Sports,ADIDAS Men Black Socks,Not specified,Not specified,Not specified,Black,ADIDAS,299
+38,58311,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Black, Beige, Black",Jockey,367
+39,41851,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Genesis Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"Black, Grey, White",Genesis,399
+40,24293,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men High Grey Socks,Not specified,Not specified,Not specified,Grey,Quiksilver,595
+41,36332,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black and White Socks,Solid,Not specified,Above Ankle,"Black, White",Playboy,145
+42,12395,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Blue Socks,Not specified,Not specified,Not specified,Blue,Reid & Taylor,395
+43,46879,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,"Cotton, Elastane",Above Ankle,"Green, Blue",Lino Perros,249
+44,58147,Men,Accessories,Socks,Socks,Spring,2014.0,Sports,PUMA Men Set of 3 White Above Ankle-Length Socks,Solid,"Cotton, Nylon",Above Ankle,White,Puma,399
+45,36335,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White and Red Socks,Solid,Not specified,Ankle Length,"White, Red",Playboy,135
+46,12392,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid  Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,125
+47,24294,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men High Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Quiksilver,595
+48,29112,Women,Accessories,Socks,Socks,Winter,2015.0,Casual,Puma Women Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"White, Black, Grey",Puma,399
+49,46877,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Patterned,"Cotton, Elastane",Above Ankle,"Beige, Black",Lino Perros,249
+50,14605,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Blue Socks,Not specified,Not specified,Not specified,"Blue, Black, White",United Colors of Benetton,299
+51,46870,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Patterned,"Cotton, Elastane",Above Ankle,"Purple, Black",Lino Perros,249
+52,29115,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Foundation Quarters White Socks,Not specified,Not specified,Not specified,White,Puma,149
+53,14602,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 Grey Socks,Not specified,Not specified,Not specified,"Grey, Navy Blue",United Colors of Benetton,349
+54,43555,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Cream Socks,Not specified,Not specified,Not specified,Cream,Puma,149
+55,2216,Women,Accessories,Socks,Socks,Fall,2010.0,Sports,ADIDAS Women Beige Socks,Not specified,Not specified,Not specified,Beige,ADIDAS,199
+56,54340,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Socks,Not specified,"Cotton, Nylon",Ankle Length,"White, Navy Blue, Grey",Levis,349
+57,37878,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Purple Socks,Not specified,Not specified,Not specified,Purple,Happy Socks,599
+58,24661,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Men White Casual Socks,Not specified,Not specified,Not specified,"Black, White",ADIDAS Originals,449
+59,6689,Unisex,Accessories,Socks,Socks,Summer,2011.0,Casual,Asics Unisex 2 Pairs 5 Toes SVS White Black Socks,Solid,"Cotton, Polyester",Ankle Length,"White, Black",ASICS,899
+60,58310,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Charcoal, Grey",Jockey,367
+61,24659,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Men Black Casual Socks,Not specified,Not specified,Not specified,"Black, Pink",ADIDAS Originals,249
+62,58317,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+63,32163,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Lavender Ankle Socks,Not specified,Not specified,Above Knee,Lavender,Playboy,120
+64,21574,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Lino Perros Men Pack of Five Striped Socks,Not specified,Not specified,Above Knee,Multi,Lino Perros,795
+65,36395,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Blue Socks,Solid,Cotton,Above Ankle,Blue,Reid & Taylor,325
+66,49298,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Women Pack Of 5 Socks,Not specified,Cotton,Above Ankle,"Pink, Blue, White",Arrow,995
+67,43564,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Pack of 3 Socks,Not specified,Not specified,Not specified,"Pink, White, Pink",Puma,339
+68,58745,Men,Accessories,Socks,Socks,Fall,2014.0,Casual,Fila Men White Ankle Dig Logo-H Socks,Striped,"Cotton, Nylon",Ankle Length,White,FILA,149
+69,37882,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Black Socks,Not specified,Not specified,Not specified,Black,Happy Socks,699
+70,58321,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+71,43563,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Pink",Puma,399
+72,58319,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+73,24657,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Casual Socks,Solid,"Cotton, Elastane",Ankle Length,"Brown, Navy Blue, Grey",Levis,429
+74,36392,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,195
+75,32164,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Navy Blue Ankle Socks,Not specified,Not specified,Above Knee,Navy Blue,Playboy,120
+76,21573,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Lino Perros Men Pack of Five Pair Socks,Not specified,Not specified,Above Knee,Multi,Lino Perros,795
+77,37885,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Pack of 2 Socks,Not specified,Not specified,Not specified,"Red, Maroon",Happy Socks,799
+78,32029,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Playboy Men Pack of 3 Socks,Solid,Cotton,Above Ankle,"Grey, White, Black",Playboy,399
+79,18584,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Blue Pair of 2 Socks,Striped,"Cotton, Nylon",Shoe Liners,Blue,Puma,299
+80,32472,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,ADIDAS Unisex White Socks,Not specified,Not specified,Not specified,White,ADIDAS,199
+81,25431,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Lee Men Tripack Socks,Not specified,Not specified,Not specified,"White, Black, Blue",Lee,349
+82,18583,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Sneakers Pink  Striped Socks,Not specified,Not specified,Not specified,Pink,Puma,299
+83,58637,Men,Accessories,Socks,Socks,Fall,2012.0,Casual,Fila Men Blue Soft Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,Blue,FILA,129
+84,25436,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Lee Men Tripack Socks,Not specified,Not specified,Not specified,"Brown, Black, Navy Blue",Lee,349
+85,58298,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Charcoal, Grey",Jockey,367
+86,32011,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black & Red Socks,Not specified,Not specified,Above Knee,"Black, Red",Playboy,125
+87,29206,Men,Accessories,Socks,Socks,Fall,2012.0,Sports,Fila Men Black And Grey Socks,Solid,"Cotton, Nylon",Above Ankle,"Black, Grey",FILA,149
+88,58291,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Charcoal, White",Jockey,367
+89,41521,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Basics Men Set of 3 Socks,Solid,Cotton,Ankle Length,"Navy Blue, White, Grey",Basics,449
+90,17394,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,125
+91,32027,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White  Striped Socks,Striped,Cotton,Ankle Length,"White, Black, Blue",Playboy,125
+92,30542,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Socks,Not specified,Not specified,Not specified,"White, White, White",Nike,325
+93,58296,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Navy Blue, Grey, Navy Blue",Jockey,367
+94,19494,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Puma Men Sports Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Navy Blue, Grey",Puma,329
+95,29201,Men,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Men White Socks,Solid,Cotton,Above Ankle,White,FILA,165
+96,49310,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Socks,Not specified,Cotton,Above Ankle,"Navy Blue, Brown, Black",Arrow,545
+97,18579,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Puma Men Sport Quarters Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Puma,119
+98,30545,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,"White, White",Nike,445
+99,58639,Men,Accessories,Socks,Socks,Summer,2013.0,Casual,Fila Men Black Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,Black,FILA,129
+100,17393,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, Grey",Reid & Taylor,395
+101,55314,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Smartoe Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,Blue,Smartoe,349
+102,51142,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men White Socks,Checked,Cotton,Above Ankle,"White, Purple",Parx,180
+103,9377,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex FTPA Brown Socks,Solid,Cotton,Ankle Length,Brown,Puma,149
+104,49986,Women,Accessories,Socks,Socks,Winter,2015.0,Casual,Hanes Women Assorted Socks,Solid,Not specified,Ankle Length,White,Hanes,125
+105,51145,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Black Socks,Striped,Cotton,Above Ankle,"Black, Lavender",Parx,180
+106,9370,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Stripe Black Socks,Striped,Cotton,Ankle Length,Black,Puma,149
+107,51348,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey & Black Socks,Checked,Cotton,Above Ankle,"Grey, Black",Raymond,290
+108,7673,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Agate Green Secret Socks,Not specified,Not specified,Above Knee,Green,Wrangler,105
+109,36411,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Striped,Cotton,Above Ankle,Navy Blue,Reid & Taylor,325
+110,17792,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,145
+111,51341,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Raymond Men Navy Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,290
+112,51173,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Raymond Men Navy Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,290
+113,17302,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Sports Black Socks,Not specified,Not specified,Not specified,Black,Puma,119
+114,18944,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Scottish Stripes Flat Knit Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, Black, Grey",Levis,429
+115,32045,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White Socks,Solid,"Cotton, Elastane",Ankle Length,White,Playboy,135
+116,37950,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black & White Socks,Not specified,Not specified,Above Knee,"Black, White",Playboy,135
+117,18943,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Half Cushion Low Cut Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, White, Grey",Levis,349
+118,32042,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Grey & Black Socks,Solid,"Cotton, Elastane",Ankle Length,"Grey, Black",Playboy,135
+119,17305,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Sports Grey Socks,Not specified,Not specified,Not specified,Grey,Puma,119
+120,7680,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Blue Ankle Length Socks,Not specified,Not specified,Not specified,Blue,Wrangler,105
+121,51174,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Solid,Cotton,Above Ankle,Brown,Raymond,290
+122,51346,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Charcoal Socks,Patterned,Cotton,Above Ankle,"Charcoal, Grey",Raymond,290
+123,51180,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Solid,Cotton,Above Ankle,Brown,Raymond,190
+124,49988,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Hanes Men Pack Of 3 White Cushion Max Crew Socks,Solid,"Cotton, Elastane",Above Ankle,White,Hanes,367
+125,29200,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Fila Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,FILA,129
+126,19495,Men,Accessories,Socks,Socks,Summer,2010.0,Sports,Puma Men Sport Quarters Pack of 3 White Socks,Not specified,Not specified,Not specified,White,Puma,329
+127,58297,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Charcoal, Grey, Charcoal",Jockey,367
+128,55315,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Smartoe Men Pack of 3 Socks,Patterned,"Cotton, Nylon",Above Ankle,White,Smartoe,349
+129,58638,Men,Accessories,Socks,Socks,Summer,2013.0,Casual,Fila Men Grey Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,Grey,FILA,129
+130,17392,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Red & Grey Striped Socks,Striped,Cotton,Above Ankle,"Red, Grey, Black",Reid & Taylor,395
+131,30544,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,Black,Nike,445
+132,29207,Men,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Men White Socks,Solid,Cotton,Above Ankle,White,FILA,149
+133,30543,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,"Black, Grey, Black",Nike,395
+134,32026,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Multi Coloured Socks,Not specified,Not specified,Above Knee,"Grey, Green, Pink",Playboy,125
+135,17395,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Brown Socks,Not specified,Not specified,Not specified,"Brown, White",Reid & Taylor,165
+136,18582,Women,Accessories,Socks,Socks,Summer,2011.0,Casual,Puma Women Pack of 2 Socks,Striped,"Cotton, Nylon",Shoe Liners,"Black, Pink",Puma,299
+137,58636,Men,Accessories,Socks,Socks,Fall,2012.0,Casual,Fila Men Dark Blue Ankle Socks,Solid,Cotton,Ankle Length,Blue,FILA,119
+138,58299,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Khaki, Black",Jockey,367
+139,6700,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Men's Nsw Clsc White Blue Socks,Not specified,Not specified,Not specified,White,Nike,145
+140,32010,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Orange & Black Socks,Not specified,Not specified,Above Knee,"Orange, Black",Playboy,125
+141,18585,Men,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Men Ftpa Quarters Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Puma,249
+142,6738,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Men's Elite Run Cus Black Orange Socks,Not specified,Not specified,Not specified,"Black, Orange",Nike,525
+143,32028,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Playboy Men Pack of 3 Socks,Solid,"Cotton, Elastane",Above Ankle,"Black, Grey, White",Playboy,399
+144,7621,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Secret Purple Socks,Not specified,Not specified,Not specified,Purple,Wrangler,105
+145,12410,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Stripes Beige Socks,Not specified,Not specified,Not specified,"Beige, Brown",Reid & Taylor,165
+146,32473,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex Black Socks,Not specified,Not specified,Not specified,Black,ADIDAS,199
+147,29209,Men,Accessories,Socks,Socks,Fall,2012.0,Sports,Fila Men Black Crew Socks,Solid,"Cotton, Nylon",Above Ankle,Black,FILA,129
+148,51181,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Solid,Cotton,Above Ankle,Brown,Raymond,235
+149,17794,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,125
+150,7675,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Fair Orchid Secret Socks,Not specified,Not specified,Not specified,Grey,Wrangler,105
+151,17304,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Sports Grey Socks,Not specified,Not specified,Not specified,Grey,Puma,119
+152,7681,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Dark Grey Secret Socks,Not specified,Not specified,Not specified,Grey,Wrangler,105
+153,32043,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Grey & Black Socks,Solid,"Cotton, Nylon",Ankle Length,"Grey, Black",Playboy,135
+154,51347,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Raymond Men Navy Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,290
+155,51175,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Navy Blue Socks,Solid,Cotton,Above Ankle,Navy Blue,Raymond,290
+156,6798,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,Nike Men's Elit Black Orange Socks,Not specified,Not specified,Not specified,Black,Nike,525
+157,49989,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Hanes Men Pack Of 3 White Cushion Max Crew Socks,Solid,"Cotton, Elastane",Above Ankle,White,Hanes,367
+158,40038,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex White Pack of 3 Socks,Solid,"Cotton, Nylon",Not specified,White,ADIDAS,599
+159,51172,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Beige Socks,Solid,Cotton,Above Ankle,Beige,Raymond,290
+160,51340,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Beige Socks,Patterned,Cotton,Above Ankle,Beige,Raymond,290
+161,18945,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Scottish Stripes Flat Knit Pack of 3 Socks,Not specified,Not specified,Above Ankle,"Navy Blue, Khaki, Blue",Levis,429
+162,32044,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Blue Socks,Solid,Not specified,Ankle Length,"Navy Blue, Blue",Playboy,135
+163,17303,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Pack of 3 Sports Socks,Not specified,Not specified,Not specified,"White, Black, Navy Blue",Puma,349
+164,36410,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Striped,Cotton,Above Ankle,Black,Reid & Taylor,325
+165,17793,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,145
+166,49987,Women,Accessories,Socks,Socks,Winter,2015.0,Casual,Hanes Women Assorted Socks,Solid,Not specified,Shoe Liners,White,Hanes,120
+167,51144,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Black Socks,Striped,Cotton,Above Ankle,"Black, Blue",Parx,180
+168,9371,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Pink Socks,Solid,Not specified,Above Ankle,Pink,Puma,119
+169,51143,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men White Socks,Checked,Cotton,Above Ankle,White,Parx,180
+170,18345,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men Ankel White Socks,Not specified,Not specified,Not specified,White,FILA,129
+171,9376,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex FTPA Black Socks,Not specified,Not specified,Not specified,Black,Puma,149
+172,9354,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sports Socks 1 Pair Grey Socks,Not specified,Not specified,Not specified,Grey,Puma,129
+173,36403,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Green Socks,Not specified,Not specified,Not specified,"Green, Navy Blue",Reid & Taylor,325
+174,7661,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Navy Ankle Length Socks,Not specified,Not specified,Not specified,Navy Blue,Wrangler,105
+175,18956,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Argyle Flat Knit Crew Grey Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, Navy Blue, Grey",Levis,429
+176,18358,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men Ankel Black Socks,Not specified,Not specified,Not specified,Black,FILA,129
+177,32265,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,2go Active Gear USA Men Pack of 3 White Socks,Solid,Cotton,Above Ankle,White,2go ACTIVE GEAR USA,340
+178,51161,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Checked,Cotton,Above Ankle,Brown,Raymond,290
+179,18360,Men,Accessories,Socks,Socks,Fall,2010.0,Casual,Fila  Men Crew Black Socks,Not specified,Not specified,Not specified,Black,FILA,125
+180,51159,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Patterned,Cotton,Above Ankle,Black,Raymond,290
+181,7659,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Black Ankle Length Socks,Not specified,Not specified,Not specified,Black,Wrangler,105
+182,51166,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Patterned,Not specified,Above Ankle,Brown,Raymond,290
+183,18951,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Full Cushion Crew Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, White, Grey",Levis,429
+184,36404,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Green Socks,Not specified,Not specified,Not specified,"Green, Brown",Reid & Taylor,325
+185,17787,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,125
+186,9365,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Logo Stud Black Socks,Solid,Cotton,Ankle Length,Black,Puma,149
+187,18356,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men Ankel Logo Black Socks,Not specified,Not specified,Not specified,Black,FILA,129
+188,58640,Men,Accessories,Socks,Socks,Fall,2012.0,Casual,Fila Men Trio Pack Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,"White, Grey, Black",FILA,349
+189,35243,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Grey Socks,Not specified,Not specified,Not specified,"Grey, Black",Manchester United,199
+190,51150,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Black Socks,Striped,Cotton,Above Ankle,Black,Parx,180
+191,17583,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,ADIDAS Unisex Pack of 3 Crew Socks,Not specified,Not specified,Not specified,White,ADIDAS,349
+192,17789,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Olive Socks,Not specified,Not specified,Not specified,Olive,Reid & Taylor,125
+193,7668,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's White Crew Length Socks,Not specified,Not specified,Above Knee,White,Wrangler,135
+194,9362,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Logo Stud Pink Socks,Solid,Cotton,Ankle Length,Purple,Puma,149
+195,51168,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey Socks,Patterned,Cotton,Above Ankle,Grey,Raymond,290
+196,7657,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Black Ankle Length Socks,Not specified,Not specified,Not specified,Black,Wrangler,105
+197,17584,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,ADIDAS Unisex Pack of 3 Crew Socks,Not specified,Not specified,Not specified,Black,ADIDAS,349
+198,51157,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Raymond Men Navy Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,290
+199,35244,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Red Socks,Not specified,Not specified,Not specified,"Red, White",Manchester United,199
+200,32035,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Grey Socks,Solid,Not specified,Ankle Length,Grey,Playboy,135
+201,12432,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Timberland Men Pack Of 3 Brown Socks,Not specified,Not specified,Not specified,"Brown, Beige, Cream",Timberland,990
+202,49305,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack Of 5 Basic Plating Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, White",Arrow,545
+203,29214,Women,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Women White Socks,Solid,"Cotton, Nylon",Ankle Length,White,FILA,125
+204,32032,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Pack of 3 Ankle-Length Socks,Solid,"Cotton, Elastane",Ankle Length,Grey,Playboy,375
+205,12435,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Timberland Men Casual Black Socks,Not specified,Not specified,Not specified,Black,Timberland,990
+206,51336,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Beige Socks,Solid,Cotton,Above Ankle,Beige,Raymond,290
+207,55306,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Smartoe Women Pack Of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,"Pink, Yellow, Blue",Smartoe,279
+208,29213,Women,Accessories,Socks,Socks,Summer,2012.0,Sports,Fila Women Pink Socks,Solid,Cotton,Ankle Length,Pink,FILA,125
+209,53806,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Kids Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"White, Black, Grey",Puma,359
+210,49302,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Socks,Not specified,Cotton,Above Ankle,"Grey, Brown, Black",Arrow,495
+211,33780,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Formstripe Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Puma,149
+212,12403,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,165
+213,32004,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Beige Socks,Solid,Not specified,Above Ankle,Beige,Playboy,120
+214,43404,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Monday to Friday Socks,Solid,"Cotton, Elastane",Not specified,Multi,Lino Perros,599
+215,12404,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,165
+216,32003,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Brown Formal Socks,Solid,Not specified,Above Ankle,Brown,Playboy,120
+217,18591,Men,Accessories,Socks,Socks,Fall,2013.0,Sports,Puma Men White Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,White,Puma,399
+218,51338,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Navy Blue Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,290
+219,18350,Men,Accessories,Socks,Socks,Summer,2013.0,Casual,Fila Mens Ankel Logo White Socks,Not specified,Not specified,Not specified,White,FILA,129
+220,51169,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Patterned,Cotton,Above Ankle,Black,Raymond,290
+221,9363,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Logo Stud White Socks,Solid,Cotton,Ankle Length,White,Puma,149
+222,17788,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, White",Reid & Taylor,375
+223,51156,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Charcoal Grey Socks,Patterned,Cotton,Above Ankle,"Grey, Charcoal",Raymond,290
+224,35245,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Black Socks,Not specified,Not specified,Not specified,"Black, Grey, Red",Manchester United,199
+225,7656,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Navy Ankle Length Socks,Not specified,Not specified,Not specified,Navy Blue,Wrangler,105
+226,58641,Men,Accessories,Socks,Socks,Summer,2013.0,Casual,Fila Men Grey Thin Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,Grey,FILA,119
+227,9364,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Logo Stud Blue Socks,Solid,"Cotton, Nylon",Ankle Length,Blue,Puma,149
+228,18357,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men Ankel Grey Socks,Not specified,Not specified,Not specified,Grey,FILA,129
+229,17582,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,ADIDAS Unisex Pack of 3 Crew Socks,Not specified,Not specified,Not specified,"White, Black, Grey",ADIDAS,349
+230,7651,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Navy Ankle Length Socks,Not specified,Not specified,Not specified,Navy Blue,Wrangler,105
+231,35242,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Black Socks,Not specified,Not specified,Not specified,"Black, Red",Manchester United,199
+232,51151,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Raymond,290
+233,18361,Men,Accessories,Socks,Socks,Fall,2012.0,Sports,Fila Men Black And White Socks,Striped,"Cotton, Nylon",Above Ankle,"White, Black",FILA,149
+234,51158,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Patterned,Cotton,Above Ankle,Brown,Raymond,290
+235,9352,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sports Socks 1 Pair White Socks,Not specified,Not specified,Not specified,White,Puma,129
+236,36405,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Brown Socks,Not specified,Not specified,Not specified,"Brown, Blue",Reid & Taylor,325
+237,7667,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's White Crew Length Socks,Not specified,Not specified,Not specified,White,Wrangler,135
+238,17786,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,145
+239,51167,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Beige Socks,Patterned,Cotton,Above Ankle,Beige,Raymond,290
+240,40015,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex Navy Blue Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,Navy Blue,ADIDAS,399
+241,18508,Men,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Men Ftpa Quarters Black Socks,Not specified,Not specified,Not specified,Black,Puma,249
+242,18950,Women,Accessories,Socks,Socks,Summer,2016.0,Sports,Levis Women White Set of 3 Trainer Socks,Solid,Not specified,Ankle Length,White,Levis,349
+243,9355,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sport Pack of 3 White Socks,Not specified,Not specified,Not specified,White,Puma,349
+244,18359,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men No Show White Socks,Solid,Cotton,Ankle Length,White,FILA,139
+245,51160,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Patterned,Cotton,Above Ankle,Black,Raymond,290
+246,36402,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Patterned,Cotton,Above Ankle,Grey,Reid & Taylor,325
+247,12405,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Stripes  Navy Blue Socks,Not specified,Not specified,Not specified,"Navy Blue, Grey, Blue",Reid & Taylor,165
+248,32002,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Grey Socks,Solid,"Cotton, Nylon",Ankle Length,Grey,Playboy,120
+249,43405,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Monday to Friday Socks,Solid,"Cotton, Elastane",Not specified,Multi,Lino Perros,599
+250,51339,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Patterned,Cotton,Above Ankle,Brown,Raymond,290
+251,29223,Men,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Men Pack Of 3 Socks,Solid,"Cotton, Elastane",Above Ankle,"White, Grey, Black",FILA,399
+252,18590,Women,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Women Foundation Black Socks,Not specified,Not specified,Not specified,"Black, Pink",Puma,249
+253,43402,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Monday to Friday Socks,Patterned,Cotton,Not specified,"Black, Navy Blue, White",Lino Perros,599
+254,33781,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,Puma Men Formstripe Quarter Black Socks,Not specified,Not specified,Not specified,Black,Puma,149
+255,12402,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid White Socks,Not specified,Not specified,Not specified,White,Reid & Taylor,165
+256,32005,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Grey Socks,Solid,Not specified,Ankle Length,Grey,Playboy,120
+257,17389,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Red Socks,Not specified,Not specified,Not specified,Red,Reid & Taylor,395
+258,55307,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Smartoe Women White Pack of 3 Socks,Solid,"Cotton, Polyester",Ankle Length,White,Smartoe,279
+259,12434,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Timberland Men Pack Of 3 Black Socks,Not specified,Not specified,Not specified,Black,Timberland,990
+260,15275,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Men Pack of 3 Sports Socks,Not specified,Not specified,Not specified,"White, Grey, Black",Nike,395
+261,51337,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Charcoal Socks,Patterned,Cotton,Above Ankle,Charcoal,Raymond,290
+262,49303,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Socks,Solid,Cotton,Above Ankle,"Black, Navy Blue, White",Arrow,495
+263,29212,Women,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Women White Socks,Not specified,Not specified,Above Knee,"White, Pink",FILA,125
+264,32034,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black Socks,Solid,Not specified,Ankle Length,Black,Playboy,135
+265,12433,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Timberland Men Casual Grey Socks,Not specified,Not specified,Not specified,Grey,Timberland,590
+266,29215,Women,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Women White Socks,Solid,"Cotton, Nylon",Ankle Length,White,FILA,125
+267,49304,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack Of 5 Basic Plating Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, Brown",Arrow,545
+268,58304,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Black, Charcoal, White",Jockey,367
+269,31996,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men White Socks,Solid,Not specified,Above Ankle,White,Playboy,135
+270,49249,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 3 Health Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, Olive",Arrow,1047
+271,7770,Unisex,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Unisex Beige Socks,Not specified,Cotton,Not specified,Beige,Nike,125
+272,36388,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Reid & Taylor,195
+273,31991,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Brown Socks,Solid,Cotton,Above Ankle,Brown,Playboy,135
+274,19501,Men,Accessories,Socks,Socks,Fall,2010.0,Casual,Puma Men Ftpa Quarters Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Puma,149
+275,15551,Men,Accessories,Socks,Socks,Fall,2012.0,Sports,Fila Men White Set Of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,White,FILA,379
+276,20828,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Grey Socks,Not specified,Not specified,Not specified,Grey,United Colors of Benetton,299
+277,29199,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Fila Men Grey Socks,Not specified,Not specified,Not specified,Grey,FILA,149
+278,37896,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Blue Socks,Not specified,Not specified,Not specified,Blue,Happy Socks,699
+279,36381,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,195
+280,31998,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Brown Formal Socks,Solid,Not specified,Above Ankle,Brown,Playboy,120
+281,36375,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,195
+282,37891,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Multi Color Socks,Not specified,Not specified,Not specified,Multi,Happy Socks,699
+283,8503,Unisex,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Unisex China Swsh Ct White Socks,Not specified,Not specified,Not specified,"White, Black",Nike,145
+284,6694,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Men's New Ap Swsh C Black Socks,Not specified,Not specified,Not specified,Black,Nike,135
+285,36372,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,195
+286,36386,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,195
+287,32170,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Pink Socks,Not specified,Not specified,Above Knee,Pink,Playboy,99
+288,17297,Men,Accessories,Socks,Socks,Summer,2015.0,Sports,Puma Men Pack of 3 Sports Socks,Not specified,Not specified,Above Knee,Black,Puma,399
+289,29108,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Unisex FTPA Quarters Brown Socks,Solid,"Cotton, Nylon",Ankle Length,Brown,Puma,249
+290,15706,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Unisex Pack of 3 White Socks,Solid,"Cotton, Nylon",Ankle Length,"White, White, White",Nike,395
+291,57920,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men White Pack of Three Socks,Solid,"Cotton, Polyester",Above Ankle,White,Fruit of the loom,399
+292,57918,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Black Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,Black,Fruit of the loom,329
+293,14618,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 3 Brown Socks,Not specified,Not specified,Not specified,"Brown, Navy Blue, Cream",United Colors of Benetton,699
+294,37655,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Cream Socks,Solid,Not specified,Above Ankle,Cream,Playboy,135
+295,14611,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Solid Black Socks,Not specified,Not specified,Not specified,Black,United Colors of Benetton,299
+296,57911,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men White Pack of Three Socks,Solid,"Cotton, Polyester",Above Ankle,"White, Blue, Grey",Fruit of the loom,399
+297,46863,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,"Cotton, Elastane",Above Ankle,"Black, Navy Blue, White",Lino Perros,249
+298,17299,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Pack of 3 Sports Socks,Not specified,Not specified,Not specified,"Black, White, Grey",Puma,349
+299,14616,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 3 Grey Socks,Not specified,Not specified,Not specified,"Grey, Navy Blue",United Colors of Benetton,599
+300,17403,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,135
+301,46864,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Patterned,Cotton,Above Ankle,"Blue, Black",Lino Perros,249
+302,57916,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,"White, Black",Fruit of the loom,329
+303,49222,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Calzini Men Pack of 5 Socks,Solid,Cotton,Above Ankle,"Black, Navy Blue, Brown",Calzini,745
+304,18222,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Stripes White Socks,Not specified,Not specified,Not specified,"White, Grey",Manchester United,199
+305,20827,Women,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Women White Pack of 3 Socks,Solid,Cotton,Ankle Length,"White, Green, Pink",FILA,329
+306,37890,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Black Socks,Solid,"Cotton, Elastane",Ankle Length,Black,Happy Socks,699
+307,36387,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,195
+308,32171,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Blue Socks,Not specified,Not specified,Above Knee,Blue,Playboy,99
+309,36373,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,195
+310,8505,Unisex,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Unisex Ap Kids Snl G White Socks,Not specified,Not specified,Not specified,"White, Black, Red",Nike,135
+311,36374,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,195
+312,6692,Unisex,Accessories,Socks,Socks,Summer,2011.0,Casual,Asics Unisex 2 Pairs 5 Toes SVS White Logo Blue Purple Socks,Solid,"Cotton, Polyester",Ankle Length,"White, Blue",ASICS,899
+313,36380,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,195
+314,31999,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Cream Socks,Not specified,Not specified,Above Knee,Cream,Playboy,120
+315,19500,Men,Accessories,Socks,Socks,Summer,2010.0,Sports,Puma Men Sport Quarters White Socks,Not specified,Not specified,Not specified,White,Puma,119
+316,49270,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Plating Design Socks,Not specified,Cotton,Above Ankle,"Brown, Navy Blue, White",Arrow,645
+317,36389,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Reid & Taylor,195
+318,31990,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Black Socks,Solid,Not specified,Above Ankle,Black,Playboy,135
+319,20829,Unisex,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Kids-Unisex Solid White Socks,Not specified,Not specified,Not specified,White,Nike,135
+320,15550,Men,Accessories,Socks,Socks,Fall,2014.0,Sports,FILA Men Pack of 3 White Socks,Not specified,Not specified,Above Knee,"White, White, White",FILA,379
+321,31997,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Black Socks,Not specified,Not specified,Above Knee,Black,Playboy,120
+322,58305,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Olive, White, Beige",Jockey,367
+323,37653,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Charcoal Socks,Patterned,Cotton,Above Ankle,Charcoal,Playboy,145
+324,17402,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Multi Socks,Not specified,Not specified,Not specified,Multi,Reid & Taylor,395
+325,14617,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 3 Cream Socks,Not specified,Not specified,Not specified,"Cream, Beige, Grey",United Colors of Benetton,599
+326,18223,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Stripes Red Socks,Not specified,Not specified,Not specified,"Red, Grey",Manchester United,199
+327,57917,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men White Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,White,Fruit of the loom,329
+328,46865,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Patterned,"Cotton, Elastane",Above Ankle,"Green, Black, Navy Blue",Lino Perros,249
+329,14610,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Purple Socks,Not specified,Not specified,Not specified,"Purple, White",United Colors of Benetton,299
+330,17405,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Green Socks,Not specified,Not specified,Not specified,"Green, Black",Reid & Taylor,395
+331,37654,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Beige Socks,Not specified,Not specified,Above Knee,Beige,Playboy,135
+332,46862,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Solid,"Cotton, Elastane",Above Ankle,"Black, Grey",Lino Perros,249
+333,57910,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Navy Blue Pack of Three Socks,Solid,"Cotton, Polyester",Above Ankle,"Navy Blue, Blue, Grey",Fruit of the loom,399
+334,17298,Men,Accessories,Socks,Socks,Winter,2015.0,Sports,Puma Men Pack of 3 Sports Socks,Not specified,Not specified,Above Knee,"White, Black, Grey",Puma,399
+335,24872,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Bright Assorted Cream Socks,Not specified,Not specified,Not specified,Cream,Reid & Taylor,395
+336,54339,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Socks,Solid,Not specified,Ankle Length,"Black, Grey, White",Levis,349
+337,57919,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Pack of Three Socks,Solid,"Cotton, Polyester",Above Ankle,"White, Black, Grey",Fruit of the loom,399
+338,15532,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Fila Men Pack Of 3 Grey Socks,Not specified,Not specified,Not specified,"Grey, Grey Melange, Charcoal",FILA,339
+339,29109,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Pack of 2 Purple Socks,Striped,"Cotton, Elastane",Above Ankle,Purple,Puma,249
+340,15707,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Black Socks,Solid,"Cotton, Nylon",Above Ankle,"Black, Black, Black",Nike,395
+341,15535,Men,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Men Pack Of 3 Black And Grey Socks,Solid,"Cotton, Nylon",Ankle Length,"Black, Grey",FILA,379
+342,17296,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Pack of 3 Sports Socks,Not specified,Not specified,Not specified,"White, Grey, Navy Blue",Puma,329
+343,18215,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Solid Black Socks,Not specified,Not specified,Not specified,Black,Manchester United,199
+344,57921,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Black Pack of Three Socks,Solid,"Cotton, Polyester",Above Ankle,Black,Fruit of the loom,399
+345,32161,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate White Ankle Socks,Not specified,Not specified,Above Knee,White,Playboy,120
+346,36397,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Blue Socks,Striped,Cotton,Above Ankle,"Blue, Black",Reid & Taylor,325
+347,37880,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Brown Socks,Not specified,Not specified,Not specified,Brown,Happy Socks,799
+348,58323,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Black, Grey, Black",Jockey,367
+349,43559,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Navy Blue, Grey",Puma,499
+350,31989,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Navy Blue Socks,Not specified,Not specified,Above Knee,"Navy Blue, Red",Playboy,145
+351,36390,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Brown Socks,Solid,Cotton,Above Ankle,Brown,Reid & Taylor,195
+352,24655,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Men White Casual Socks,Not specified,Not specified,Not specified,"White, Black",ADIDAS Originals,249
+353,32166,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Red Ankle Socks,Not specified,Not specified,Above Knee,"Red, White",Playboy,120
+354,49269,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack pf 5 Plating Design Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, Grey",Arrow,645
+355,43561,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Black, Grey",Puma,399
+356,32159,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Pink Ankle Socks,Not specified,Not specified,Above Knee,Pink,Playboy,120
+357,15549,Men,Accessories,Socks,Socks,Fall,2012.0,Sports,Fila Men Pack of 3 Socks,Solid,Cotton,Above Ankle,"Black, Grey, White",FILA,379
+358,37887,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Red Socks,Not specified,Not specified,Not specified,"Red, Black",Happy Socks,699
+359,43557,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women White Pack of 2 Socks,Not specified,Not specified,Not specified,White,Puma,299
+360,2214,Women,Accessories,Socks,Socks,Fall,2010.0,Sports,ADIDAS Women Black Socks,Not specified,Not specified,Not specified,Black,ADIDAS,199
+361,36399,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Patterned,Cotton,Above Ankle,Black,Reid & Taylor,325
+362,58312,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Grey, Black",Jockey,367
+363,37889,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Multi Color Socks,Not specified,Not specified,Not specified,Multi,Happy Socks,699
+364,54345,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,White,Levis,429
+365,32157,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Lavender Ankle Socks,Not specified,Not specified,Above Knee,Lavender,Playboy,120
+366,15547,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Fila Men Pack Of 3 Grey Socks,Not specified,Not specified,Not specified,"Grey, Grey, Grey",FILA,339
+367,49267,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Plating Design Socks,Not specified,Cotton,Above Ankle,"Brown, Navy Blue, Grey",Arrow,645
+368,58315,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+369,32168,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Black Socks,Not specified,Not specified,Above Knee,Black,Playboy,99
+370,31987,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Cream Socks,Patterned,Cotton,Above Ankle,Cream,Playboy,145
+371,12399,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Cream Socks,Not specified,Not specified,Not specified,Cream,Reid & Taylor,135
+372,46875,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,"Cotton, Elastane",Above Ankle,"Grey, Black, Black",Lino Perros,249
+373,57907,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Fruit of the Loom Women Black Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,Black,Fruit of the loom,329
+374,43399,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Unisex Monday to Friday Socks,Solid,"Cotton, Elastane",Ankle Length,Multi,Lino Perros,599
+375,29110,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Puma Men Pack of 3 White Sports Socks,Solid,"Cotton, Nylon",Above Ankle,White,Puma,499
+376,14607,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Brown Socks,Not specified,Not specified,Not specified,"Brown, Navy Blue",United Colors of Benetton,299
+377,12736,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Kids Sport Hi Quarter Pack of 3 Socks,Not specified,Not specified,Not specified,"Grey, White, Blue",Nike,225
+378,29117,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"Navy Blue, Grey, Black",Puma,399
+379,24298,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Quiksilver,595
+380,46872,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Patterned,"Cotton, Elastane",Above Ankle,"Black, White",Lino Perros,249
+381,14600,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 White Socks,Not specified,Not specified,Not specified,"White, White",United Colors of Benetton,349
+382,14609,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Check Grey Socks,Not specified,Not specified,Not specified,Grey,United Colors of Benetton,349
+383,12397,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,125
+384,57909,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Fruit of the Loom Women Black Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,Black,Fruit of the loom,329
+385,24296,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men Red Socks,Not specified,Not specified,Not specified,Red,Quiksilver,595
+386,30206,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Nike Men Dri-Fit Support Black Socks,Solid,"Polyester, Elastane",Knee Length,Black,Nike,695
+387,29119,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Kids Unisex Pack of 3 Black Socks,Solid,"Cotton, Elastane",Above Ankle,Black,Puma,299
+388,54344,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Socks,Solid,Not specified,Ankle Length,Black,Levis,349
+389,32156,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Black Ankle Socks,Not specified,Not specified,Above Knee,Black,Playboy,120
+390,37888,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Green Socks,Not specified,Not specified,Not specified,Green,Happy Socks,699
+391,32169,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Navy Blue Socks,Patterned,Cotton,Ankle Length,Navy Blue,Playboy,99
+392,31986,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Brown Socks,Patterned,"Cotton, Nylon",Above Ankle,Brown,Playboy,145
+393,58314,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+394,49266,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Plating Design Socks,Not specified,Cotton,Above Ankle,"Navy Blue, Grey",Arrow,645
+395,43556,Women,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Women Black Pack of 2 Socks,Not specified,Not specified,Not specified,Black,Puma,299
+396,54343,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,White,Levis,349
+397,58313,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+398,36398,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Patterned,Cotton,Above Ankle,Grey,Reid & Taylor,325
+399,43560,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Unisex Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Black, Grey",Puma,499
+400,49268,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Plating Design Socks,Not specified,Cotton,Above Ankle,"Brown, Navy Blue, Grey",Arrow,645
+401,31988,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black Socks,Not specified,Not specified,Above Knee,"Black, Grey",Playboy,145
+402,36391,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,195
+403,32167,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Blue Ankle Socks,Not specified,Not specified,Above Knee,Blue,Playboy,120
+404,37886,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Black Pack of Two Socks,Not specified,Not specified,Not specified,Black,Happy Socks,799
+405,15548,Men,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Men Pack of 3 White Socks,Solid,Cotton,Ankle Length,White,FILA,379
+406,32158,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Navy Socks,Solid,Not specified,Ankle Length,Navy Blue,Playboy,120
+407,32160,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Playmate Blue Ankle Socks,Not specified,Not specified,Above Knee,Blue,Playboy,120
+408,36396,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Striped Socks,Striped,Cotton,Above Ankle,Multi,Reid & Taylor,325
+409,58322,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Patterned,Cotton,Above Ankle,White,Jockey,367
+410,43558,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Black Pack of 3 Socks,Not specified,Not specified,Not specified,Black,Puma,499
+411,49250,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 3 Health Socks,Not specified,Cotton,Above Ankle,"Brown, Grey, Khaki",Arrow,897
+412,37881,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Navy Blue Socks,Not specified,Not specified,Above Knee,"Navy Blue, Beige, Beige",Happy Socks,699
+413,29118,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Kids Singlet Quarter White Socks,Not specified,Not specified,Not specified,White,Puma,119
+414,24297,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men Grey Socks,Not specified,Not specified,Not specified,Grey,Quiksilver,595
+415,41852,Men,Accessories,Socks,Socks,Winter,2015.0,Casual,Genesis Men Pack of 3 Checked Socks,Checked,"Cotton, Nylon",Above Ankle,"Black, Grey, Navy Blue",Genesis,399
+416,14608,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Grey Socks,Not specified,Not specified,Not specified,"Grey, Red",United Colors of Benetton,299
+417,22990,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,2go Active Gear USA Men Pack of Two Cushion Socks,Not specified,Not specified,Not specified,"White, Grey",2go ACTIVE GEAR USA,230
+418,12739,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Kids Unisex Sport Hi Quarter  Pack of 3 Pink Socks,Not specified,Not specified,Not specified,"Pink, White, Purple",Nike,225
+419,57908,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Fruit of the Loom Women White Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,White,Fruit of the loom,329
+420,12396,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Stripes Blue Socks,Not specified,Not specified,Not specified,"Blue, Black",Reid & Taylor,395
+421,46873,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Solid,"Cotton, Elastane",Above Ankle,"White, Grey",Lino Perros,249
+422,29116,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Men Foundation Quarters Black Socks,Not specified,Not specified,Not specified,Black,Puma,149
+423,14601,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, Blue",United Colors of Benetton,299
+424,29111,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Puma Men Pack of 3 Sports Socks,Solid,"Cotton, Nylon",Above Ankle,"White, Black, Grey",Puma,499
+425,49232,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Calzini Men Pack of 5 Sports Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, White",Calzini,845
+426,57906,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Fruit of the Loom Women White Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,White,Fruit of the loom,329
+427,12398,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,135
+428,46874,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Solid,"Cotton, Elastane",Above Ankle,"White, Beige",Lino Perros,249
+429,12737,Women,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Women Sports White Socks,Striped,"Cotton, Nylon",Ankle Length,"White, Pink",Nike,125
+430,14606,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Cream Socks,Not specified,Not specified,Not specified,"Cream, Brown",United Colors of Benetton,299
+431,40239,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Provogue Men Black Pack of 3 Socks,Not specified,Not specified,Not specified,Black,Provogue,749
+432,51179,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Navy Blue Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,190
+433,9373,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex Foundation Pink Socks,Striped,"Cotton, Nylon",Above Ankle,Pink,Puma,249
+434,51141,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Brown Socks,Striped,Cotton,Above Ankle,Brown,Parx,180
+435,18949,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Trainer Liner Flat Knit Pack of 3 Socks,Not specified,Not specified,Not specified,"Navy Blue, White, Black",Levis,349
+436,9374,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex Foundation Blue Socks,Striped,"Cotton, Nylon",Above Ankle,Blue,Puma,249
+437,32041,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White & Blue Socks,Solid,"Cotton, Elastane",Ankle Length,"White, Blue",Playboy,145
+438,51345,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black & Blue Socks,Checked,Cotton,Above Ankle,"Blue, Black",Raymond,290
+439,40237,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Provogue Men Pack of 3 Striped Socks,Striped,"Cotton, Elastane",Above Ankle,"Black, Multi",Provogue,749
+440,51177,Men,Accessories,Socks,Socks,Winter,2016.0,Formal,Raymond Men Navy Socks,Solid,Cotton,Above Ankle,Navy Blue,Raymond,235
+441,51183,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Raymond Men Navy Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,200
+442,51148,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Black Socks,Checked,Cotton,Above Ankle,"Black, Lavender",Parx,180
+443,7648,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Dark Grey Melange Ankle Length Socks,Not specified,Not specified,Not specified,Grey,Wrangler,125
+444,36412,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Striped,Cotton,Above Ankle,Grey,Reid & Taylor,325
+445,7670,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Navy Crew Length Socks,Not specified,Not specified,Above Knee,Navy Blue,Wrangler,135
+446,17791,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,395
+447,51184,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Patterned,Cotton,Above Ankle,Black,Raymond,190
+448,51170,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Raymond,290
+449,51342,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Solid,Cotton,Above Ankle,Black,Raymond,290
+450,18947,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Trainer Liner Flat Knit Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, White, Khaki",Levis,349
+451,17301,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Sports Black Socks,Not specified,Not specified,Not specified,Black,Puma,119
+452,18580,Men,Accessories,Socks,Socks,Summer,2010.0,Sports,Puma Men Sport Quarters Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Grey",Puma,329
+453,58634,Men,Accessories,Socks,Socks,Fall,2014.0,Casual,Fila Men White Socks,Solid,"Cotton, Nylon",Ankle Length,"White, Red",FILA,139
+454,30548,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Men Pack of 3 Socks,Solid,"Cotton, Nylon",Not specified,White,Nike,445
+455,25435,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Lee Men Tripack Socks,Not specified,Not specified,Not specified,"Black, Grey",Lee,349
+456,19499,Men,Accessories,Socks,Socks,Fall,2010.0,Sports,Puma Men Foundation Quarters White Socks,Not specified,Not specified,Not specified,White,Puma,149
+457,32012,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Yellow & Black Socks,Patterned,Cotton,Ankle Length,"Black, Yellow",Playboy,125
+458,17399,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, White",Reid & Taylor,395
+459,18587,Men,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Men Fundamental Sneakers Black Socks,Not specified,Not specified,Not specified,Black,Puma,119
+460,6705,Women,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Women's Nsw Ctn White Red Socks,Not specified,Not specified,Not specified,"White, Red",Nike,145
+461,32471,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex Pack of 3 Black Socks,Solid,"Cotton, Nylon",Not specified,"Black, White",ADIDAS,599
+462,25432,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Lee Men Tripack Socks,Not specified,Not specified,Not specified,White,Lee,349
+463,7623,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Lemon Secret Yellow Socks,Not specified,Not specified,Not specified,Yellow,Wrangler,105
+464,35239,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Black Socks,Solid,Not specified,Ankle Length,Black,Manchester United,199
+465,19497,Unisex,Accessories,Socks,Socks,Fall,2009.0,Casual,Puma Kids Unisex Foundation Pack of 3 Crew Socks,Not specified,Not specified,Not specified,"White, Orange, Red",Puma,279
+466,29202,Men,Accessories,Socks,Socks,Spring,2013.0,Sports,Fila Men White Socks,Not specified,Not specified,Not specified,White,FILA,129
+467,58295,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Navy Blue, White, Navy Blue",Jockey,367
+468,32023,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Multi Coloured Socks,Not specified,Not specified,Above Knee,"Black, Multi",Playboy,125
+469,30546,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,"White, Black, Grey",Nike,445
+470,41525,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Basics Men Set of 3 Socks,Patterned,Cotton,Ankle Length,"White, Grey, Charcoal",Basics,449
+471,17390,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,395
+472,58292,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"White, Khaki, Olive",Jockey,367
+473,18589,Unisex,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Unisex Invisble Sneakers Black Socks,Not specified,Not specified,Not specified,Black,Puma,329
+474,17397,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Black Socks,Not specified,Not specified,Above Knee,"Black, Green",Reid & Taylor,395
+475,41522,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Basics Men Set of 3 Socks,Patterned,Cotton,Ankle Length,"Black, White, Grey",Basics,449
+476,30541,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Sports White Socks,Not specified,Not specified,Not specified,White,Nike,125
+477,32024,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Striped Socks,Striped,Not specified,Ankle Length,"Blue, Lavender, Black",Playboy,125
+478,51343,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Blue Socks,Checked,Cotton,Above Ankle,Blue,Raymond,290
+479,51171,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Raymond,290
+480,17300,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Pack of 3 Sports Socks,Not specified,Not specified,Not specified,"Navy Blue, Grey, White",Puma,349
+481,18946,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Scottish Stripes Flat Knit Pack of 3 Socks,Striped,Not specified,Above Ankle,"Navy Blue, Grey, Khaki",Levis,429
+482,7671,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Light Grey Melange Crew Length Socks,Not specified,Not specified,Not specified,Grey,Wrangler,135
+483,36413,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black & Blue Socks,Striped,Cotton,Above Ankle,"Black, Blue",Reid & Taylor,325
+484,17790,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Cream Socks,Not specified,Not specified,Not specified,Cream,Reid & Taylor,145
+485,51185,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Navy Blue Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,190
+486,51182,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Raymond,235
+487,7676,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women's Burnt Sienna Secret Socks,Not specified,Not specified,Not specified,Red,Wrangler,105
+488,32040,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Blue Socks,Not specified,Not specified,Above Knee,Blue,Playboy,145
+489,51176,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Solid,Cotton,Above Ankle,Black,Raymond,235
+490,51344,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Charcoal Grey Socks,Checked,Cotton,Above Ankle,"Grey, Charcoal",Raymond,290
+491,7649,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's White Ankle Length Socks,Not specified,Not specified,Not specified,White,Wrangler,125
+492,51149,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Brown Socks,Checked,Cotton,Above Ankle,"Brown, Blue",Parx,180
+493,51140,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Navy Blue Socks,Striped,Cotton,Above Ankle,Navy Blue,Parx,180
+494,18346,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men Crew White Socks,Not specified,Not specified,Not specified,White,FILA,129
+495,18948,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Trainer Liner Flat Knit Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, Navy Blue, Khaki",Levis,349
+496,9375,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex FTPA Brown Socks,Not specified,Not specified,Not specified,Brown,Puma,149
+497,51147,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Parx Men Navy Blue Socks,Checked,Cotton,Above Ankle,"Blue, Navy Blue",Parx,180
+498,40238,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Provogue Men Black Pack of 3 Socks,Not specified,Not specified,Not specified,Black,Provogue,749
+499,9372,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex ABS Blue Socks,Not specified,Not specified,Not specified,Blue,Puma,119
+500,51178,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Grey Socks,Solid,Cotton,Above Ankle,Grey,Raymond,235
+501,7678,Women,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Women Pink Secret Socks,Not specified,Not specified,Not specified,Pink,Wrangler,105
+502,58293,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Olive, Black",Jockey,367
+503,32025,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Cream Socks,Not specified,Not specified,Above Knee,"Cream, Red",Playboy,125
+504,30540,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Sports Black Socks,Not specified,Not specified,Not specified,Black,Nike,125
+505,18588,Men,Accessories,Socks,Socks,Fall,2010.0,Casual,Puma Men Lifestyle Pack of 3 Socks,Not specified,Not specified,Not specified,"Black, Beige",Puma,399
+506,41523,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Basics Men Set of 3 Socks,Striped,Cotton,Ankle Length,"White, Grey, Black",Basics,449
+507,17396,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Blue Socks,Not specified,Not specified,Not specified,"Blue, Black",Reid & Taylor,395
+508,58294,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Grey, Black",Jockey,367
+509,19496,Women,Accessories,Socks,Socks,Summer,2010.0,Sports,Puma Women Sport Quarters Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Black, Grey",Puma,299
+510,17391,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,165
+511,55316,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Smartoe Men Pack of 3 Socks,Not specified,"Cotton, Polyester",Above Ankle,"Grey, Blue",Smartoe,349
+512,30547,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Men Pack of 3 Socks,Solid,"Cotton, Nylon",Above Knee,"Black, Black, Black",Nike,445
+513,17398,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Multi Socks,Not specified,Not specified,Not specified,Multi,Reid & Taylor,395
+514,18586,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,Puma Men Fundamental Sneakers Olive Socks,Not specified,Not specified,Not specified,Olive,Puma,119
+515,25433,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Lee Men Tripack Socks,Not specified,Not specified,Not specified,"Black, Blue, Grey",Lee,349
+516,6704,Women,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Women's Nsw Wmns Ctn White Pink Socks,Not specified,Not specified,Not specified,"White, Pink",Nike,145
+517,30549,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Pack of 3 Socks,Solid,"Cotton, Nylon",Ankle Length,"White, Black, Grey",Nike,445
+518,18581,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,Puma Men Formstripe Short Black Socks,Patterned,Cotton,Ankle Length,Black,Puma,149
+519,58635,Men,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Men Pack Of 3 Multi-Coloured Socks,Striped,Cotton,Ankle Length,"Grey, White, Navy Blue",FILA,325
+520,19498,Women,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Women Heritage Quarters Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Black, Pink",Puma,329
+521,25434,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Lee Men Casual Tripack Socks,Not specified,Not specified,Not specified,"White, Grey, Black",Lee,399
+522,32031,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Pack Of 3 Socks,Solid,"Cotton, Elastane",Ankle Length,"White, Black, Grey",Playboy,375
+523,12436,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Timberland Men Casual Blue Socks,Not specified,Not specified,Not specified,Blue,Timberland,790
+524,15277,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Men pack of 3 Sports Socks,Not specified,Not specified,Not specified,Black,Nike,395
+525,51335,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Solid,Cotton,Above Ankle,Black,Raymond,290
+526,29210,Men,Accessories,Socks,Socks,Fall,2012.0,Casual,Fila Men Grey Crew Socks,Solid,"Cotton, Nylon",Above Ankle,Grey,FILA,129
+527,12409,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Stripes Beige Socks,Not specified,Not specified,Not specified,"Beige, Black, Grey",Reid & Taylor,165
+528,53805,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Kids Unisex Pack Of 3 Socks,Solid,"Cotton, Nylon",Above Ankle,"White, Black, Grey",Puma,359
+529,49301,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Socks,Not specified,Cotton,Above Ankle,"Grey, Brown, Blue",Arrow,495
+530,32036,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Navy Socks,Solid,Not specified,Ankle Length,Navy Blue,Playboy,135
+531,49306,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack Of 5 Basic Plating Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, Grey",Arrow,545
+532,32009,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Purple & Black Socks,Patterned,Cotton,Ankle Length,"Black, Purple",Playboy,125
+533,29217,Women,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Women White Socks,Not specified,Not specified,Above Knee,White,FILA,130
+534,38157,Unisex,Accessories,Socks,Socks,Summer,2016.0,Casual,Happy Socks Unisex Cream Socks,Not specified,Not specified,Not specified,"Cream, Black",Happy Socks,699
+535,12407,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Brown Striped Socks,Striped,"Cotton, Elastane",Above Ankle,"Brown, Beige",Reid & Taylor,165
+536,32000,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Brown Socks,Solid,"Cotton, Elastane",Above Ankle,Brown,Playboy,120
+537,18592,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Sport Quarters Pack of 3 Socks,Not specified,Not specified,Not specified,"White, Grey",Puma,399
+538,15279,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Men Sports Black Socks,Solid,Cotton,Ankle Length,Black,Nike,395
+539,29221,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Fila Men Pack of 3 Socks,Solid,Cotton,Ankle Length,"Grey, Black, White",FILA,379
+540,29219,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,Fila Men Pack of 2 Socks,Solid,Cotton,Ankle Length,"Grey, Navy Blue",FILA,299
+541,12400,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid Beige Socks,Not specified,Not specified,Above Knee,Beige,Reid & Taylor,135
+542,32007,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black and Blue Socks,Patterned,Not specified,Above Ankle,"Black, Blue",Playboy,125
+543,49308,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack Of 5 Basic Plating Socks,Not specified,Cotton,Above Ankle,"Black, Navy Blue, White",Arrow,545
+544,19478,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men High Blue Socks,Not specified,Not specified,Not specified,Blue,Quiksilver,595
+545,33777,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,Puma Unisex Retro Pack of 2 Socks,Not specified,Not specified,Not specified,"White, Black",Puma,299
+546,43400,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Monday to Friday Socks,Striped,"Cotton, Elastane",Not specified,Multi,Lino Perros,599
+547,32038,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Grey and Black  Socks,Solid,Not specified,Above Ankle,"Grey, Black",Playboy,145
+548,9350,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sport Pack of 3 White Black Socks,Not specified,Not specified,Not specified,White,Puma,329
+549,51165,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Navy Blue Socks,Checked,Cotton,Above Ankle,Navy Blue,Raymond,290
+550,40017,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex White Adicrew Socks,Solid,"Cotton, Nylon",Above Ankle,White,ADIDAS,149
+551,18952,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Fader Stripes Flat Knit Crew Pack of 3 Socks,Striped,"Cotton, Nylon",Above Ankle,"Black, Brown, Grey",Levis,429
+552,36407,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,325
+553,7665,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Dark Grey Melange Crew Length Socks,Not specified,Not specified,Not specified,Grey,Wrangler,145
+554,9357,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sport Pack of 3 Socks,Not specified,Not specified,Not specified,White,Puma,349
+555,7662,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's White Crew Length Socks,Not specified,Not specified,Not specified,White,Wrangler,145
+556,36400,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Patterned,Cotton,Above Ankle,Navy Blue,Reid & Taylor,325
+557,18955,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Argyle Flat Knit Crew Pack of 3 Socks,Patterned,Not specified,Above Ankle,"Black, Brown, Grey",Levis,429
+558,9368,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Ftpa White Socks,Not specified,Not specified,Not specified,White,Puma,149
+559,51162,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Checked,Cotton,Above Ankle,Black,Raymond,290
+560,36409,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Striped,Cotton,Above Ankle,Grey,Reid & Taylor,325
+561,18352,Men,Accessories,Socks,Socks,Summer,2013.0,Casual,Fila Men Grey Socks,Not specified,Not specified,Not specified,Grey,FILA,139
+562,9361,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex FTPA Black Socks,Not specified,Not specified,Not specified,Black,Puma,149
+563,7654,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Dark Grey Melange Ankle Length Socks,Not specified,Not specified,Not specified,Grey,Wrangler,105
+564,51154,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Brown Socks,Patterned,Cotton,Above Ankle,Brown,Raymond,290
+565,35247,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Red Socks,Not specified,Not specified,Not specified,"Red, Grey",Manchester United,199
+566,9366,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Ftpa Socks White Socks,Not specified,Not specified,Not specified,White,Puma,149
+567,18355,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Fila Men Ankel White Socks,Solid,Cotton,Ankle Length,White,FILA,149
+568,35240,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Red Socks,Solid,Not specified,Ankle Length,"Red, Black",Manchester United,199
+569,9359,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex FTPA Grey Socks,Not specified,Not specified,Not specified,Grey,Puma,149
+570,51153,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Beige Socks,Patterned,Cotton,Above Ankle,Beige,Raymond,290
+571,49990,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Hanes Men Pack Of 3 White Cushion Max Crew Socks,Solid,"Cotton, Elastane",Above Ankle,White,Hanes,367
+572,7653,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Dark Grey Melange Ankle Length Socks,Not specified,Not specified,Not specified,Grey,Wrangler,105
+573,33776,Unisex,Accessories,Socks,Socks,Summer,2011.0,Casual,Puma Unisex Invisible Pack of 3 Socks,Not specified,Not specified,Not specified,"Grey, White, Black",Puma,399
+574,43401,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Monday to Friday Socks,Striped,"Cotton, Elastane",Not specified,"Multi, Beige",Lino Perros,599
+575,19479,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Quiksilver Men Blue Socks,Not specified,Not specified,Not specified,Blue,Quiksilver,595
+576,29218,Women,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Women Pack Of 3 Socks,Solid,Cotton,Ankle Length,"Red, Blue, Pink",FILA,329
+577,12401,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Solid  Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,135
+578,32006,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men White Socks,Not specified,Not specified,Above Knee,White,Playboy,120
+579,32039,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Grey & Black Socks,Solid,"Cotton, Nylon",Above Ankle,"Grey, Black",Playboy,145
+580,12406,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Stripes Beige Socks,Not specified,Not specified,Not specified,Beige,Reid & Taylor,165
+581,32001,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Navy Blue Socks,Not specified,Not specified,Above Knee,Navy Blue,Playboy,120
+582,15278,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Men Sports White Socks,Not specified,Not specified,Not specified,White,Nike,395
+583,29220,Men,Accessories,Socks,Socks,Summer,2012.0,Sports,FILA Men Pack of 2 Socks,Not specified,Not specified,Not specified,"White, Black",FILA,299
+584,32037,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White Socks,Not specified,Not specified,Above Knee,White,Playboy,135
+585,32008,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black & Green Socks,Not specified,Not specified,Above Knee,"Black, Green",Playboy,125
+586,29216,Women,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Women White Socks,Not specified,Not specified,Above Knee,"White, Pink",FILA,130
+587,33778,Unisex,Accessories,Socks,Socks,Summer,2011.0,Casual,Puma Unisex Retro Pack of 2 Socks,Not specified,Not specified,Not specified,"Cream, Navy Blue",Puma,299
+588,49307,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack Of 5 Basic Plating Socks,Not specified,Cotton,Above Ankle,"Brown, Navy Blue, Black",Arrow,545
+589,15276,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Nike Men pack of 3 Sports Socks,Not specified,Not specified,Not specified,White,Nike,395
+590,49300,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of Socks,Patterned,Cotton,Above Knee,Multi,Arrow,495
+591,29211,Women,Accessories,Socks,Socks,Summer,2012.0,Sports,Fila Women Blue Socks,Solid,Cotton,Ankle Length,Blue,FILA,125
+592,12408,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Reid & Taylor Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, Grey",Reid & Taylor,165
+593,58642,Men,Accessories,Socks,Socks,Summer,2013.0,Casual,Fila Men Black Thin Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,Black,FILA,119
+594,9367,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Ftpa Blue Socks,Not specified,Not specified,Not specified,Blue,Puma,149
+595,18354,Men,Accessories,Socks,Socks,Fall,2012.0,Casual,Fila Men Performance Ankel  White Socks,Solid,Cotton,Above Ankle,White,FILA,165
+596,17581,Unisex,Accessories,Socks,Socks,Fall,2011.0,Sports,ADIDAS Unisex Pack of 3 Crew Socks,Not specified,Not specified,Not specified,White,ADIDAS,399
+597,35241,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men Grey Socks,Solid,Not specified,Ankle Length,Grey,Manchester United,199
+598,51152,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Raymond Men Navy Socks,Patterned,Cotton,Above Ankle,Navy Blue,Raymond,290
+599,49991,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Hanes Men Pack Of 3 White Cushion Max Crew Socks,Solid,"Cotton, Elastane",Above Ankle,White,Hanes,367
+600,9358,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Sport Pack of 3 White Socks,Not specified,Not specified,Not specified,Red,Puma,399
+601,18353,Men,Accessories,Socks,Socks,Fall,2012.0,Casual,Fila Men Ankel Black Socks,Not specified,Not specified,Not specified,Black,FILA,149
+602,30539,Unisex,Accessories,Socks,Socks,Summer,2012.0,Sports,Nike Unisex Sports Black Socks,Not specified,Not specified,Not specified,Black,Nike,135
+603,3468,Women,Accessories,Socks,Socks,Fall,2010.0,Sports,ADIDAS Women's Royal Freshgold Purple Socks,Not specified,Not specified,Not specified,Purple,ADIDAS,149
+604,9360,Unisex,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Unisex FTPA Blue Socks,Not specified,Not specified,Not specified,Blue,Puma,149
+605,36408,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,Reid & Taylor,325
+606,51155,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Patterned,Cotton,Above Ankle,Black,Raymond,290
+607,35246,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Manchester United Men White Socks,Not specified,Not specified,Not specified,"White, Grey",Manchester United,199
+608,9356,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sport Pack of 3 Black Socks,Not specified,Not specified,Not specified,Black,Puma,349
+609,18954,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Fader Stripes Flat Knit Crew Pack of 3 Socks,Striped,Not specified,Above Ankle,"Brown, Navy Blue, Grey",Levis,429
+610,51163,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Beige Socks,Patterned,Cotton,Above Ankle,Beige,Raymond,290
+611,9369,Women,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Women Stripe Grey Socks,Striped,Cotton,Ankle Length,Grey,Puma,149
+612,36401,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Spots Black Socks,Patterned,Cotton,Above Ankle,Black,Reid & Taylor,325
+613,9351,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Puma Men Sport Pack of 3 Pairs Black Sock,Not specified,Not specified,Not specified,Black,Puma,329
+614,7664,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Wrangler Men's Black Crew Length Socks,Not specified,Not specified,Not specified,Black,Wrangler,145
+615,36406,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Blue Socks,Striped,Cotton,Above Ankle,Blue,Reid & Taylor,325
+616,17785,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Solid Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,145
+617,40016,Unisex,Accessories,Socks,Socks,Summer,2012.0,Casual,ADIDAS Unisex White Pack of 3 Ankle Socks,Solid,"Cotton, Nylon",Ankle Length,White,ADIDAS,499
+618,51164,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Raymond Men Black Socks,Patterned,Cotton,Above Ankle,Black,Raymond,290
+619,18953,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Levis Men Fader Stripes Flat Knit Crew Pack of 3 Socks,Striped,"Cotton, Nylon",Above Ankle,"Black, Navy Blue, Grey",Levis,429
+620,46869,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,"Cotton, Elastane",Above Ankle,"Blue, Purple, Black",Lino Perros,249
+621,49228,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Calzini Men Pack of 5 Sport Socks,Not specified,Cotton,Above Ankle,"Brown, Grey, Navy Blue",Calzini,795
+622,37658,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White Socks,Solid,Not specified,Ankle Length,White,Playboy,135
+623,18217,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Solid Grey Socks,Not specified,Not specified,Not specified,Grey,Manchester United,199
+624,14615,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 Grey Socks,Not specified,Not specified,Not specified,Grey,United Colors of Benetton,399
+625,17400,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, Grey",Reid & Taylor,395
+626,57915,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Black Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,Black,Fruit of the loom,329
+627,46867,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,"Cotton, Elastane",Above Ankle,"Blue, Black",Lino Perros,249
+628,18221,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Stripes Black Socks,Not specified,Not specified,Not specified,"Black, Grey, Red",Manchester United,199
+629,17407,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Brown Socks,Striped,"Cotton, Elastane",Above Ankle,"Brown, Black",Reid & Taylor,395
+630,37656,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men Black Socks,Not specified,Not specified,Above Knee,"Black, Blue",Playboy,125
+631,18219,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Grey Socks,Not specified,Not specified,Not specified,Grey,Manchester United,199
+632,14612,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Stripes White Socks,Not specified,Not specified,Not specified,"White, Blue, Red",United Colors of Benetton,299
+633,57912,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Black Pack of Three Socks,Solid,"Cotton, Polyester",Above Ankle,Black,Fruit of the loom,399
+634,31992,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Brown Socks,Solid,Not specified,Above Ankle,Brown,Playboy,135
+635,19502,Men,Accessories,Socks,Socks,Fall,2010.0,Casual,Puma Men Ftpa Quarters Grey Melange Socks,Not specified,Not specified,Not specified,Grey,Puma,149
+636,58300,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,"Black, Grey",Jockey,367
+637,6699,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Men's Nsw Clsc White Socks,Not specified,Not specified,Not specified,White,Nike,145
+638,24443,Men,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Men Grey Socks,Not specified,Not specified,Not specified,Grey,FILA,129
+639,15552,Women,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Women Pack Of 3 White Socks,Patterned,Cotton,Ankle Length,"White, Pink, Blue",FILA,329
+640,58307,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Navy Blue, White, Navy Blue",Jockey,367
+641,36378,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,195
+642,31995,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Navy Socks,Solid,Not specified,Above Ankle,Navy Blue,Playboy,135
+643,24444,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,ADIDAS Originals Men Grey Socks,Not specified,Not specified,Not specified,Grey,ADIDAS Originals,249
+644,6697,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Men's New Elit White Orange Grey Socks,Not specified,Not specified,Not specified,"White, Orange, Blue",Nike,525
+645,49288,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Socks,Not specified,Cotton,Above Ankle,"Black, Brown, Navy Blue",Arrow,1245
+646,36385,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Beige Socks,Not specified,Not specified,Not specified,Beige,Reid & Taylor,195
+647,32173,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women White Socks,Not specified,Not specified,Above Knee,"White, Pink",Playboy,99
+648,8507,Unisex,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Unisex  Black Socks,Solid,"Cotton, Nylon",Above Ankle,Black,Nike,145
+649,36382,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Cream Socks,Solid,Cotton,Above Ankle,Cream,Reid & Taylor,195
+650,36376,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Navy Blue Socks,Solid,Cotton,Above Ankle,Navy Blue,Reid & Taylor,195
+651,58309,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Charcoal, Grey, Charcoal",Jockey,367
+652,14613,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 Black Socks,Not specified,Not specified,Not specified,"Black, Grey",United Colors of Benetton,349
+653,17406,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Brown Socks,Not specified,Not specified,Not specified,Brown,Reid & Taylor,395
+654,37657,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Playboy Men White Socks,Solid,Not specified,Ankle Length,"White, Black",Playboy,135
+655,18218,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Black Socks,Not specified,Not specified,Not specified,"Black, Red",Manchester United,199
+656,57913,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men Black and White Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,"White, Black, Charcoal",Fruit of the loom,329
+657,24871,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Bright Assorted Combo Pack Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,395
+658,17401,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Stripes Blue Socks,Not specified,Not specified,Not specified,"Blue, Grey",Reid & Taylor,165
+659,14614,Men,Accessories,Socks,Socks,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 Navy Blue Socks,Not specified,Not specified,Not specified,Navy Blue,United Colors of Benetton,349
+660,18220,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Red Socks,Not specified,Not specified,Not specified,"Red, White",Manchester United,199
+661,46866,Men,Accessories,Socks,Socks,Spring,2013.0,Casual,Lino Perros Men Pack Of Two Socks,Striped,Cotton,Above Ankle,"Black, Blue, Green",Lino Perros,249
+662,57914,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Fruit of the Loom Men White Pack of Three Socks,Solid,"Cotton, Polyester",Ankle Length,White,Fruit of the loom,329
+663,49229,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Calzini Men Pack of 5 Socks,Not specified,Cotton,Above Ankle,"Black, Grey",Calzini,795
+664,18216,Men,Accessories,Socks,Socks,Fall,2011.0,Casual,Manchester United Men Solid Red Socks,Not specified,Not specified,Not specified,"Red, Black",Manchester United,199
+665,17408,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men NA Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,395
+666,46868,Men,Accessories,Socks,Socks,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks,Striped,"Cotton, Elastane",Above Ankle,"Black, Grey",Lino Perros,249
+667,15531,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Fila Men Pack Of 3 Navy Blue Socks,Not specified,Not specified,Not specified,"Navy Blue, Navy Blue, Navy Blue",FILA,315
+668,36377,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men White Socks,Not specified,Not specified,Not specified,White,Reid & Taylor,195
+669,58308,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Navy Blue, Grey, Navy Blue",Jockey,367
+670,6691,Unisex,Accessories,Socks,Socks,Summer,2011.0,Casual,Asics Unisex 2 Pairs 5 Toes SVS White Logo Black Red Socks,Solid,"Cotton, Polyester",Ankle Length,"White, Red",ASICS,899
+671,36383,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Grey Socks,Not specified,Not specified,Not specified,Grey,Reid & Taylor,195
+672,36384,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,195
+673,49289,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Set of 3 Socks,Solid,Cotton,Above Knee,Black,Arrow,599
+674,32172,Women,Accessories,Socks,Socks,Summer,2017.0,Casual,Playboy Women Lavender Socks,Patterned,"Cotton, Elastane",Ankle Length,"Lavender, White",Playboy,99
+675,6696,Men,Accessories,Socks,Socks,Summer,2011.0,Sports,Nike Men's New Ap Swsh C White Socks,Not specified,Not specified,Not specified,White,Nike,175
+676,31994,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Khaki Green Socks,Solid,Not specified,Above Ankle,Khaki,Playboy,135
+677,19504,Men,Accessories,Socks,Socks,Fall,2011.0,Sports,Puma Men Sports Pack of 3 Socks,Not specified,Not specified,Not specified,White,Puma,329
+678,58306,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men Pack of 3 Socks 2004,Solid,Cotton,Above Ankle,"Black, Olive, Black",Jockey,367
+679,36379,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Reid & Taylor Men Black Socks,Not specified,Not specified,Not specified,Black,Reid & Taylor,195
+680,15554,Women,Accessories,Socks,Socks,Fall,2014.0,Sports,Fila Women Pack Of 3 White Socks,Not specified,Not specified,Above Knee,"White, White, White",FILA,329
+681,24445,Men,Accessories,Socks,Socks,Summer,2013.0,Sports,Fila Men Black Socks,Not specified,Not specified,Not specified,Black,FILA,139
+682,58301,Men,Accessories,Socks,Socks,Summer,2016.0,Sports,Jockey LCESCBRA Men White Pack of 3 Socks 2004,Solid,Cotton,Ankle Length,White,Jockey,367
+683,19503,Women,Accessories,Socks,Socks,Summer,2010.0,Casual,Puma Women Fitness Quarters Purple Socks,Not specified,Not specified,Not specified,Purple,Puma,109
+684,31993,Men,Accessories,Socks,Socks,Summer,2016.0,Formal,Playboy Men Grey Socks,Solid,Not specified,Above Ankle,Grey,Playboy,135
+685,49287,Men,Accessories,Socks,Socks,Summer,2016.0,Casual,Arrow Men Pack of 5 Socks,Striped,Cotton,Above Ankle,"Black, Navy Blue, Brown",Arrow,1245

@@ -1,0 +1,259 @@
+,id,gender,masterCategory,subCategory,articleType,season,year,usage,productDisplayName,Pattern,Material,Colour,Brand,Price
+0,15948,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Stripes Burgundy Ties,Not specified,Not specified,"Burgundy, Black",Turtle,695
+1,50314,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Brown Tie,Woven Design,Microfiber,Brown,Park Avenue,1100
+2,15946,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Solid Black Ties,Not specified,Not specified,"Black, Maroon",Turtle,695
+3,50313,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Brown Tie,Woven Design,Microfiber,Brown,Park Avenue,1100
+4,36367,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Red Tie,Not specified,Not specified,Red,Reid & Taylor,1195
+5,58916,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Black Silk Tie,Woven Design,Silk,"Black, Gold",Hakashi,1035
+6,36358,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Red Tie,Not specified,Not specified,Red,Reid & Taylor,1195
+7,58911,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Grey Silk Tie,Woven Design,Silk,"Grey, Black",Hakashi,930
+8,36360,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Gold Tie,Not specified,Not specified,Gold,Reid & Taylor,1195
+9,36356,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Yellow Patterned Tie,Woven Design,Not specified,Yellow,Reid & Taylor,1195
+10,36369,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,1195
+11,58918,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Red & Black Silk Tie,Not specified,Silk,"Red, Black",Hakashi,1035
+12,36351,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,995
+13,49690,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Blue Tie,Woven Design,Microfiber,Blue,Park Avenue,899
+14,15947,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Stripes Maroon Ties,Not specified,Not specified,"Maroon, Black",Turtle,695
+15,50312,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Lavender Tie,Woven Design,Microfiber,Lavender,Park Avenue,1100
+16,49697,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Red Tie,Woven Design,Not specified,Red,Park Avenue,899
+17,50315,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Woven Design,Microfiber,Red,Park Avenue,899
+18,15949,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Check Black Ties,Not specified,Not specified,Black,Turtle,795
+19,49699,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red & Brown Striped Tie,Woven Design,Microfiber,"Red, Brown",Park Avenue,899
+20,36350,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Black Tie,Not specified,Not specified,"Black, Blue",Reid & Taylor,995
+21,36357,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Navy Blue Tie,Not specified,Not specified,Navy Blue,Reid & Taylor,1195
+22,58919,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Purple Silk Tie,Woven Design,Silk,"Purple, Silver",Hakashi,1035
+23,36368,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,1195
+24,36361,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Black Tie,Not specified,Not specified,Black,Reid & Taylor,1195
+25,58910,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Blue Silk Tie,Woven Design,Silk,Blue,Hakashi,910
+26,58917,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Silk Tie,Striped,Silk,"Black, Grey",Hakashi,1035
+27,36366,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Navy Blue Tie,Not specified,Not specified,Navy Blue,Reid & Taylor,1195
+28,36359,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,1195
+29,49742,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Copper Tie,Solid,Microfiber,Copper,Park Avenue,899
+30,58891,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Lavender Tie,Woven Design,Microfiber,Lavender,Hakashi,750
+31,49745,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Striped,Microfiber,Red,Park Avenue,899
+32,58896,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black & Maroon Tie,Woven Design,Microfiber,"Maroon, Black",Hakashi,765
+33,19231,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Striped Navy Blue Tie,Not specified,Not specified,Navy Blue,United Colors of Benetton,1899
+34,18773,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Navy Blue Tie,Not specified,Not specified,"Navy Blue, Blue",Peter England,799
+35,18774,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Peter England Men Elite Purple Tie,Not specified,Not specified,Purple,Peter England,799
+36,58898,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black & Grey Silk Tie,Woven Design,Silk,"Grey, Black",Hakashi,795
+37,18780,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Black Tie,Not specified,Not specified,Black,Peter England,699
+38,49720,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Grey Tie,Checked,Not specified,Grey,Park Avenue,899
+39,49727,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Navy Blue Tie,Woven Design,Microfiber,Navy Blue,Park Avenue,899
+40,50293,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Checked,Microfiber,Black,Parx,1100
+41,49711,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Not specified,Not specified,Maroon,Park Avenue,899
+42,40234,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Provogue Men Black Tie,Not specified,Not specified,"Black, Blue",Provogue,699
+43,50294,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Checked,Microfiber,Black,Parx,1100
+44,49729,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Navy Blue Tie,Woven Design,Not specified,Navy Blue,Park Avenue,899
+45,49716,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Checked,Not specified,Blue,Park Avenue,899
+46,18781,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Blue Tie,Not specified,Not specified,Blue,Peter England,699
+47,58899,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Grey Silk Tie,Not specified,Silk,Grey,Hakashi,795
+48,18775,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Purple Tie,Not specified,Not specified,Purple,Peter England,799
+49,18772,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Maroon Tie,Not specified,Not specified,"Maroon, Black",Peter England,699
+50,19230,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Blue Tie,Not specified,Not specified,Blue,United Colors of Benetton,1899
+51,49744,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Striped,Not specified,Blue,Park Avenue,899
+52,58897,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Black Silk Tie,Not specified,Silk,"Black, Purple, Green",Hakashi,795
+53,49743,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men White Tie,Solid,Microfiber,White,Park Avenue,899
+54,58890,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Red Tie,Not specified,Microfiber,Red,Hakashi,750
+55,49728,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Red Tie,Solid,Not specified,Red,Park Avenue,899
+56,50295,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Solid,Microfiber,Black,Parx,1100
+57,50292,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Grey Tie,Checked,Microfiber,Grey,Parx,1100
+58,49710,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Not specified,Not specified,Blue,Park Avenue,899
+59,49719,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Checked,Not specified,Blue,Park Avenue,899
+60,49726,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Grey Tie,Checked,Not specified,Grey,Park Avenue,899
+61,49721,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Not specified,Not specified,Maroon,Park Avenue,899
+62,17780,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Navy Blue Tie,Not specified,Not specified,"Navy Blue, Blue",Reid & Taylor,995
+63,50281,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Maroon and Black Tie,Not specified,Microfiber,"Maroon, Black",Parx,1100
+64,49704,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Not specified,Not specified,Blue,Park Avenue,899
+65,50286,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Solid,Microfiber,Black,Parx,1100
+66,49732,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Woven Design,Not specified,Blue,Park Avenue,899
+67,40210,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Provogue Men Black Tie,Not specified,Not specified,Black,Provogue,699
+68,35085,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men Blue Tie,Not specified,Not specified,"Blue, Grey",Allen Solly,695
+69,49735,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Black Tie,Striped,Not specified,Black,Park Avenue,899
+70,50288,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Checked,Microfiber,Black,Parx,1100
+71,12466,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Printed Red Ties,Not specified,Not specified,Red,Reid & Taylor,1295
+72,58879,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Red Tie,Woven Design,Microfiber,Red,Hakashi,650
+73,19223,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Blue Tie,Not specified,Not specified,Blue,United Colors of Benetton,1899
+74,18766,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Grey Tie,Not specified,Not specified,Grey,Peter England,699
+75,19224,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Striped Maroon Tie,Not specified,Not specified,Maroon,United Colors of Benetton,1899
+76,58883,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Blue Tie,Checked,Microfiber,Blue,Hakashi,705
+77,58877,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Olive Tie,Woven Design,Microfiber,Olive,Hakashi,650
+78,49750,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Grey Tie,Striped,Not specified,Grey,Park Avenue,899
+79,58884,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men White Tie,Woven Design,Microfiber,White,Hakashi,705
+80,18768,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Navy Blue Tie,Not specified,Not specified,Navy Blue,Peter England,699
+81,50289,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black and White Tie,Checked,Microfiber,"Black, White",Parx,1100
+82,49734,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Purple Tie,Woven Design,Microfiber,Purple,Park Avenue,899
+83,40216,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Provogue Men Pink Tie,Not specified,Not specified,Pink,Provogue,699
+84,12467,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Brown Ties,Not specified,Not specified,Brown,Reid & Taylor,1295
+85,49733,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Black Tie,Woven Design,Microfiber,Black,Park Avenue,899
+86,35084,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men Navy Blue Tie,Not specified,Not specified,"Navy Blue, Green",Allen Solly,795
+87,49705,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Not specified,Not specified,Maroon,Park Avenue,899
+88,35079,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men Blue & Grey Tie,Woven Design,Microfiber,"Blue, Grey",Allen Solly,1095
+89,50287,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Grey Tie,Solid,Microfiber,Grey,Parx,1100
+90,50280,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Light Blue Tie,Not specified,Microfiber,Blue,Parx,1100
+91,17781,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Brown Tie,Not specified,Not specified,Brown,Reid & Taylor,1295
+92,18769,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Black Tie,Not specified,Not specified,Black,Peter England,699
+93,58885,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Red Tie,Checked,Microfiber,"Red, White",Hakashi,705
+94,49756,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Blue & Black Tie,Striped,Microfiber,"Blue, Black",Parx,1100
+95,58876,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Tie,Striped,Microfiber,"Black, Grey, Purple",Hakashi,605
+96,58882,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Tie,Woven Design,Microfiber,Black,Hakashi,705
+97,49751,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Grey Tie,Striped,Not specified,Grey,Park Avenue,899
+98,40245,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Provogue Men Pink Tie,Not specified,Not specified,Pink,Provogue,699
+99,19225,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Purple Tie,Not specified,Not specified,Purple,United Colors of Benetton,1899
+100,18767,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Purple Tie,Not specified,Not specified,"Purple, Black",Peter England,699
+101,58878,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Grey Tie,Striped,Microfiber,"Grey, White, Pink",Hakashi,650
+102,19222,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Striped Navy Blue Tie,Not specified,Not specified,Navy Blue,United Colors of Benetton,1899
+103,36343,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Maroon Tie,Not specified,Not specified,Maroon,Reid & Taylor,995
+104,58904,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Grey & Black Silk Tie,Not specified,Silk,"Grey, Black",Hakashi,900
+105,58903,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Blue Silk Tie,Striped,Silk,Blue,Hakashi,865
+106,11160,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Check Grey Ties,Not specified,Not specified,Grey,Indigo Nation,799
+107,49684,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Blue Tie,Striped,Microfiber,Blue,Park Avenue,899
+108,15953,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Solid Black Ties,Not specified,Not specified,Black,Turtle,895
+109,15954,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Stripes Blue Ties,Not specified,Not specified,"Blue, Black",Turtle,695
+110,11158,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Stripe Grey Ties,Not specified,Not specified,Grey,Indigo Nation,799
+111,11151,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Check Grey Ties,Not specified,Not specified,Grey,Indigo Nation,799
+112,50308,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Striped,Microfiber,Red,Park Avenue,899
+113,11156,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Check Red Ties,Not specified,Not specified,Red,Indigo Nation,799
+114,12388,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Printed Maroon Ties,Not specified,Not specified,Maroon,Reid & Taylor,1295
+115,58902,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Yellow Silk Tie,Checked,Silk,"Yellow, Black",Hakashi,865
+116,58905,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Maroon Silk Tie,Woven Design,Silk,Maroon,Hakashi,900
+117,36342,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Pink Tie,Not specified,Not specified,Pink,Reid & Taylor,995
+118,36345,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Grey Tie,Not specified,Not specified,Grey,Reid & Taylor,995
+119,11157,Men,Accessories,Ties,Ties,Fall,2011.0,Casual,Indigo Nation Men Printed Black Ties,Not specified,Not specified,Black,Indigo Nation,799
+120,12389,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Green Ties,Not specified,Not specified,Green,Reid & Taylor,1295
+121,50309,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Maroon Tie,Not specified,Microfiber,Maroon,Park Avenue,899
+122,11159,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Black Stripe Blue Ties,Not specified,Not specified,Blue,Indigo Nation,799
+123,15955,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Solid Purple Ties,Not specified,Not specified,"Purple, Black",Turtle,695
+124,50307,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men White Tie,Woven Design,Microfiber,"White, Black",Park Avenue,899
+125,15952,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Check Brown Ties,Not specified,Not specified,"Brown, Black",Turtle,795
+126,36363,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,1195
+127,58912,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Maroon Silk Tie,Woven Design,Silk,"Maroon, Silver",Hakashi,930
+128,58915,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Silk Tie,Woven Design,Silk,"Black, Silver",Hakashi,1035
+129,36364,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,1195
+130,36352,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Maroon Dotted Tie,Not specified,Not specified,Maroon,Reid & Taylor,1195
+131,36355,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Black & Grey Diamond Patterned Tie,Woven Design,Not specified,"Black, Grey",Reid & Taylor,1195
+132,50319,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Woven Design,Not specified,Maroon,Park Avenue,899
+133,49692,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Red Tie,Solid,Not specified,Red,Park Avenue,899
+134,50310,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Blue Tie,Not specified,Microfiber,Blue,Park Avenue,899
+135,50317,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Woven Design,Microfiber,Red,Park Avenue,899
+136,12390,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Blue Ties,Not specified,Not specified,Blue,Reid & Taylor,1295
+137,36354,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Black Tie,Not specified,Not specified,Black,Reid & Taylor,1195
+138,36353,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Diagonal Striped Tie,Striped,Not specified,Blue,Reid & Taylor,1195
+139,36365,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Black Tie,Not specified,Not specified,Black,Reid & Taylor,1195
+140,58914,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Lavender Silk Tie,Woven Design,Silk,"Lavender, Grey, White",Hakashi,930
+141,58913,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Red Silk Tie,Not specified,Silk,Red,Hakashi,930
+142,36362,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Cream Tie,Not specified,Not specified,Cream,Reid & Taylor,1195
+143,49694,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Striped,Not specified,Blue,Park Avenue,899
+144,12391,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Printed Lavender Tie,Printed,Silk,Lavender,Reid & Taylor,1295
+145,50316,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Navy Blue Tie,Woven Design,Microfiber,Navy Blue,Park Avenue,899
+146,49693,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Striped,Not specified,Maroon,Park Avenue,899
+147,50311,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Silver Tie,Striped,Microfiber,Silver,Park Avenue,1100
+148,50318,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Blue Tie,Striped,Microfiber,Blue,Park Avenue,899
+149,50320,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Not specified,Microfiber,Red,Park Avenue,899
+150,40206,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Provogue Men Black Tie,Not specified,Not specified,Black,Provogue,699
+151,49723,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Woven Design,Not specified,Blue,Park Avenue,899
+152,50297,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Parx Men Black Tie,Solid,Not specified,Black,Parx,1100
+153,49715,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Black Tie,Woven Design,Not specified,"Black, Maroon",Park Avenue,899
+154,50290,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Solid,Microfiber,Black,Parx,1100
+155,49746,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Lavender Tie,Striped,Microfiber,Lavender,Park Avenue,899
+156,17990,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Navy Blue Tie,Not specified,Not specified,Navy Blue,Reid & Taylor,995
+157,58895,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Tie,Woven Design,Microfiber,Black,Hakashi,765
+158,18779,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Purple Tie,Not specified,Not specified,Purple,Peter England,799
+159,49741,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Solid,Not specified,Maroon,Park Avenue,899
+160,58892,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Purple Tie,Woven Design,Microfiber,Purple,Hakashi,765
+161,18777,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Navy Blue Tie,Not specified,Not specified,Navy Blue,Peter England,799
+162,18783,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Blue Tie,Not specified,Not specified,Blue,Peter England,699
+163,19232,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Woven Black Tie,Not specified,Not specified,Black,United Colors of Benetton,1899
+164,18784,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Lavender Tie,Not specified,Not specified,Lavender,Peter England,699
+165,18770,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Black Tie,Not specified,Not specified,"Black, Red",Peter England,699
+166,50291,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Striped,Microfiber,Black,Parx,1100
+167,49713,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Blue Tie,Woven Design,Microfiber,Blue,Park Avenue,899
+168,50296,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black and Purple Tie,Striped,Microfiber,"Black, Purple",Parx,1100
+169,49714,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Not specified,Not specified,"Blue, Brown",Park Avenue,899
+170,49722,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Black Tie,Not specified,Not specified,Black,Park Avenue,899
+171,50298,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Purple Tie,Striped,Microfiber,Purple,Parx,1100
+172,18771,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Grey Tie,Not specified,Not specified,Grey,Peter England,699
+173,18785,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Black Tie,Not specified,Not specified,Black,Peter England,699
+174,18782,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,Peter England Men Elite Cream Tie,Not specified,Not specified,Cream,Peter England,699
+175,18776,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Peter England Men Elite Purple Tie,Not specified,Not specified,Purple,Peter England,799
+176,49749,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Brown Tie,Striped,Not specified,Brown,Park Avenue,899
+177,49740,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Grey Tie,Solid,Microfiber,Grey,Park Avenue,899
+178,58893,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Grey Tie,Not specified,Microfiber,"Grey, White",Hakashi,765
+179,17991,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Printed Maroon Tie,Not specified,Not specified,Maroon,Reid & Taylor,1295
+180,18778,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Peter England Men Elite Purple Tie,Not specified,Not specified,Purple,Peter England,799
+181,58894,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Tie,Woven Design,Microfiber,"Black, Grey",Hakashi,765
+182,19218,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Green Tie,Not specified,Not specified,Green,United Colors of Benetton,1899
+183,58889,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Brown Tie,Not specified,Microfiber,Brown,Hakashi,750
+184,19227,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Green Tie,Not specified,Not specified,Blue,United Colors of Benetton,1899
+185,19220,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Grey Tie,Not specified,Not specified,"Grey, Silver",United Colors of Benetton,1899
+186,58873,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Blue Tie,Striped,Microfiber,Blue,Hakashi,550
+187,19229,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Brown Tie,Not specified,Not specified,Brown,United Colors of Benetton,1899
+188,58887,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Yellow Tie,Woven Design,Microfiber,Yellow,Hakashi,705
+189,49754,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Blue Tie,Striped,Microfiber,Blue,Parx,1100
+190,58880,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Yellow Tie,Woven Design,Microfiber,Yellow,Hakashi,650
+191,58874,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Navy Blue Tie,Striped,Microfiber,"Navy Blue, Red",Hakashi,550
+192,49753,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black and White Tie,Striped,Microfiber,"Black, White",Parx,1100
+193,49707,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Woven Design,Not specified,Maroon,Park Avenue,899
+194,50285,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Purple Tie,Not specified,Microfiber,Purple,Parx,1100
+195,49738,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Not specified,Not specified,Maroon,Park Avenue,899
+196,17784,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Printed Brown Tie,Not specified,Not specified,Brown,Reid & Taylor,1295
+197,49700,Men,Accessories,Ties,Ties,Summer,2012.0,Ethnic,Park Avenue Men Navy Blue Tie,Checked,Microfiber,Navy Blue,Park Avenue,899
+198,35088,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men Black Tie,Not specified,Not specified,Black,Allen Solly,1095
+199,17783,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Blue Tie,Not specified,Not specified,Blue,Reid & Taylor,995
+200,50282,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Grey and Black Tie,Striped,Microfiber,"Grey, Black",Parx,1100
+201,49736,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Purple Tie,Not specified,Not specified,Purple,Park Avenue,899
+202,49709,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Woven Design,Not specified,Blue,Park Avenue,899
+203,49731,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Brown Tie,Woven Design,Not specified,Brown,Park Avenue,899
+204,35086,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men White Tie,Not specified,Not specified,White,Allen Solly,1095
+205,58875,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Grey Tie,Woven Design,Microfiber,"Grey, Black",Hakashi,605
+206,58881,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Tie,Woven Design,Microfiber,Black,Hakashi,650
+207,49752,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Lavender Tie,Not specified,Microfiber,Lavender,Parx,1100
+208,58886,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Lavender Tie,Woven Design,Microfiber,Lavender,Hakashi,705
+209,58872,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Multi Coloured Tie,Woven Design,Microfiber,Multi,Hakashi,550
+210,19228,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Striped Navy Blue Tie,Not specified,Not specified,Navy Blue,United Colors of Benetton,1899
+211,49755,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Blue Tie,Striped,Microfiber,Blue,Parx,1100
+212,19217,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Striped Black Tie,Not specified,Not specified,Black,United Colors of Benetton,1899
+213,19221,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Black Tie,Not specified,Not specified,Black,United Colors of Benetton,1899
+214,19219,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Striped White Tie,Not specified,Not specified,White,United Colors of Benetton,1899
+215,19226,Men,Accessories,Ties,Ties,Summer,2011.0,Formal,United Colors of Benetton Men Check Red Tie,Not specified,Not specified,Red,United Colors of Benetton,1899
+216,58888,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men White Tie,Woven Design,Microfiber,White,Hakashi,750
+217,49730,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Woven Design,Not specified,Maroon,Park Avenue,899
+218,35087,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men Black Tie,Not specified,Not specified,Black,Allen Solly,1095
+219,49708,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Striped,Not specified,Blue,Park Avenue,899
+220,35080,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Allen Solly Men Navy Blue Tie,Not specified,Not specified,Navy Blue,Allen Solly,795
+221,49701,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Red Tie,Checked,Not specified,Red,Park Avenue,899
+222,50283,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Purple Tie,Not specified,Microfiber,Purple,Parx,1100
+223,17782,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Reid & Taylor Men Stripes Yellow Tie,Not specified,Not specified,"Yellow, Green",Reid & Taylor,1295
+224,49739,Men,Accessories,Ties,Ties,Fall,2012.0,Smart Casual,Park Avenue Men Grey Tie,Not specified,Microfiber,Grey,Park Avenue,899
+225,50284,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Parx Men Black Tie,Solid,Microfiber,Black,Parx,1100
+226,50302,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Brown Tie,Checked,Microfiber,Brown,Park Avenue,1100
+227,15957,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Stripes Maroon Ties,Not specified,Not specified,"Maroon, Black",Turtle,695
+228,50305,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Cream Tie,Woven Design,Microfiber,Cream,Park Avenue,899
+229,49687,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Maroon Tie,Striped,Not specified,Maroon,Park Avenue,899
+230,15950,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Stripes Black Ties,Not specified,Not specified,"Black, Blue",Turtle,695
+231,11155,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Green Check Black Ties,Not specified,Not specified,Black,Indigo Nation,499
+232,15959,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Check Black Ties,Not specified,Not specified,"Black, Purple",Turtle,695
+233,49689,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Red Tie,Striped,Not specified,"Red, Maroon",Park Avenue,899
+234,11152,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Orange Check Black Ties,Not specified,Not specified,Black,Indigo Nation,499
+235,15961,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Check Burgundy Ties,Not specified,Not specified,"Burgundy, Black",Turtle,695
+236,58909,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Maroon Silk Tie,Woven Design,Silk,Maroon,Hakashi,910
+237,36347,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Blue Tie,Not specified,Not specified,Purple,Reid & Taylor,995
+238,58900,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Black Silk Tie,Not specified,Silk,"Black, Grey",Hakashi,865
+239,36371,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Cream Tie,Not specified,Not specified,Cream,Reid & Taylor,1195
+240,36349,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Lavender Self Patterned Tie,Woven Design,Not specified,Lavender,Reid & Taylor,995
+241,58907,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Red Silk Tie,Woven Design,Silk,Red,Hakashi,910
+242,11153,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Check Blue Ties,Not specified,Not specified,Blue,Indigo Nation,799
+243,49688,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Striped,Not specified,Blue,Park Avenue,899
+244,15960,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Solid Navy Blue Ties,Not specified,Not specified,Navy Blue,Turtle,695
+245,15958,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Solid Purple Ties,Not specified,Not specified,"Purple, Black",Turtle,895
+246,11154,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Indigo Nation Men Strip Blue Ties,Not specified,Not specified,Blue,Indigo Nation,799
+247,50304,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Woven Design,Microfiber,Red,Park Avenue,899
+248,49686,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Blue Tie,Checked,Not specified,Blue,Park Avenue,899
+249,15951,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Stripes Purple Ties,Not specified,Not specified,"Purple, Black",Turtle,695
+250,50303,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Park Avenue Men Red Tie,Woven Design,Microfiber,Red,Park Avenue,899
+251,15956,Men,Accessories,Ties,Ties,Fall,2011.0,Formal,Turtle Men Check Black Ties,Not specified,Not specified,Black,Turtle,795
+252,49681,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Park Avenue Men Red Tie,Checked,Not specified,Red,Park Avenue,899
+253,36348,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Red Tie,Not specified,Not specified,Red,Reid & Taylor,995
+254,58906,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Silk Tie,Woven Design,Silk,Black,Hakashi,900
+255,36370,Men,Accessories,Ties,Ties,Summer,2012.0,Formal,Reid & Taylor Men Black Tie,Not specified,Not specified,Black,Reid & Taylor,1195
+256,58901,Men,Accessories,Ties,Ties,Summer,2017.0,Casual,Hakashi Men Green Silk Tie,Woven Design,Silk,"Green, Black",Hakashi,865
+257,58908,Men,Accessories,Ties,Ties,Summer,2012.0,Casual,Hakashi Men Black Silk Tie,Checked,Silk,"Black, Silver",Hakashi,910

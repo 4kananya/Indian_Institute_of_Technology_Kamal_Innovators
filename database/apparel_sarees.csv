@@ -1,0 +1,428 @@
+,id,gender,masterCategory,subCategory,articleType,season,year,usage,productDisplayName,Border,Blouse,Material,Pattern,Details,Colour,Brand,Price
+0,59607,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink & Grey Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Grey, Pink",FNF,9000.0
+1,59638,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Maroon, Gold",FNF,9000.0
+2,56684,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Beige & Maroon Mull Printed Saree,Printed,Blouse Piece,"Cotton Blend, Cotton Blend","Ethnic Motifs, Printed",Not specified,"Beige, Maroon",Fabindia,1330.0
+3,59600,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Rust Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Rust, Green, Gold",FNF,9000.0
+4,59636,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Sea Green Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Sea Green,FNF,9000.0
+5,59609,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Khaki Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Khaki,FNF,9000.0
+6,59631,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Gold Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, Gold",FNF,9000.0
+7,46010,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Maroon Printed Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,Maroon,Fabindia,1230.0
+8,59665,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink & Yellow Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Yellow, Pink",FNF,3630.0
+9,52883,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, White",FNF,1598.0
+10,57961,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Women Black & Grren Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Black, Green",Prafful,889.0
+11,52877,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"White, Blue",FNF,1598.0
+12,57959,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Turquoise Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Turquoise Blue,Prafful,899.0
+13,57966,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,Prafful,899.0
+14,52884,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Orange Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Orange, Red",FNF,2798.0
+15,59662,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Colour Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Multi, Red, Yellow",FNF,3940.0
+16,52879,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Magenta Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Magenta, White, Green",FNF,2666.0
+17,59654,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Purple, Magenta, Orange",FNF,3630.0
+18,57968,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Rust Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Rust, Green",Prafful,899.0
+19,59653,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green & Pink Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Green, Pink",FNF,4550.0
+20,57957,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,Prafful,899.0
+21,59630,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Orange Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Orange, Maroon",FNF,9000.0
+22,59637,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Maroon & Green Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Maroon, Green",FNF,9000.0
+23,59608,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Magenta & Gold Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Magenta, Gold, Gold",FNF,9000.0
+24,59601,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Brown Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, Teal",FNF,9000.0
+25,59606,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Collection for Wedding Wear Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Pink, Gold",FNF,9000.0
+26,56685,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Black Mull Printed Saree,Printed,Blouse Piece,"Cotton Blend, Cotton Blend","Ethnic Motifs, Printed",Not specified,Black,Fabindia,1330.0
+27,59639,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, White, Black",FNF,9000.0
+28,57969,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Women Black & Grren Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Black, Green",Prafful,899.0
+29,57956,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Navy Blue",Prafful,899.0
+30,59652,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Mustard & Purple Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Purple, Mustard, Blue",FNF,3546.0
+31,52878,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Red Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, White, Green",FNF,1598.0
+32,59655,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Green, Purple",FNF,3546.0
+33,57958,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Grey",Prafful,899.0
+34,59663,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Green, Red",FNF,3850.0
+35,52885,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Orange & Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, Orange",FNF,2798.0
+36,57967,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Brown",Prafful,899.0
+37,46011,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Maroon Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Maroon,Fabindia,2960.0
+38,57960,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Beige Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Beige, Pink",Prafful,899.0
+39,52876,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,1598.0
+40,52882,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Peach Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Peach",FNF,1598.0
+41,59664,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple & Blue Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Blue, Yellow",FNF,3850.0
+42,52904,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Red Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Red, Green",FNF,2698.0
+43,49928,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Beige Hand Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"Beige, Red, Black",Fabindia,2490.0
+44,53021,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Beige Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Beige, Beige",FNF,11200.0
+45,49917,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Green Printed Ajrakh Dhonekhali Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,Green,Fabindia,2990.0
+46,52903,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,FNF,2698.0
+47,53019,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Green,FNF,14200.0
+48,53026,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2862.0
+49,52935,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Purple",FNF,1598.0
+50,49919,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Maroon Printed Ajrakh Dhonekhali Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,Maroon,Fabindia,2990.0
+51,49926,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Maroon Maheshwari Zari Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Maroon,Fabindia,3230.0
+52,53010,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Yellow, Red",FNF,4476.0
+53,45985,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia White Hand Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"White, Teal",Fabindia,1790.0
+54,53017,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Olive Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Olive, Green",FNF,14826.0
+55,49921,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Grey Tie & Dye Ghicha Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Woven Design",Not specified,Grey,Fabindia,4590.0
+56,53043,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Purple,FNF,2666.0
+57,52959,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Green,FNF,4000.0
+58,52992,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Green, Mustard",FNF,3914.0
+59,50893,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Yellow & Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, Yellow, Navy Blue",Prafful,1099.0
+60,52966,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Indigo Blue Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Blue,FNF,4456.0
+61,53044,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2666.0
+62,52961,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4348.0
+63,50860,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful White & Pink Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Peach, Maroon",Prafful,1299.0
+64,50894,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Women White Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Green, Maroon",Prafful,1099.0
+65,52968,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Coffee Brown, Purple",FNF,3260.0
+66,50869,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Red & Black Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Red, Black, Green",Prafful,1099.0
+67,50856,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Brown Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, White",Prafful,1099.0
+68,52957,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Pink, Purple",FNF,4500.0
+69,34983,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Black Cotton Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Black,Fabindia,1130.0
+70,34984,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Cream Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Cream, Black",Fabindia,1130.0
+71,52950,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Red",FNF,3750.0
+72,50851,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Maroon Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Maroon,Prafful,1299.0
+73,45984,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia White Hand Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"White, Black",Fabindia,1790.0
+74,53029,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,2862.0
+75,49920,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Green Tie & Dye Ghicha Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Woven Design",Not specified,Green,Fabindia,4590.0
+76,53016,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Blue,FNF,15150.0
+77,52934,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Pink",FNF,1598.0
+78,49918,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Brown Printed Ajrakh Dhonekhali Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,Brown,Fabindia,2990.0
+79,53011,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,3800.0
+80,49927,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Beige Hand Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"Beige, Black, Rust",Fabindia,2490.0
+81,52902,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Blue,FNF,2698.0
+82,53027,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2862.0
+83,52905,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow and Red Printed Bandhani Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Yellow, Red",FNF,2698.0
+84,49929,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Pink Sari Maheshwari Zari Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Pink,Fabindia,2930.0
+85,49916,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Blue Printed Ajrakh Dhonekhali Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,Blue,Fabindia,2990.0
+86,53020,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Rust Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Rust, Gold",FNF,15426.0
+87,52951,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Pink, Green",FNF,3750.0
+88,50850,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Black & Beige Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Black, Beige, Maroon",Prafful,1299.0
+89,34985,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Black Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Black,Fabindia,1130.0
+90,52969,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Black Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Black, Red, Off White",FNF,3260.0
+91,34949,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Black Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Black,Fabindia,1130.0
+92,50868,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Blue, Black",Prafful,1299.0
+93,34982,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Black Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Black,Fabindia,1130.0
+94,52956,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, White",FNF,4500.0
+95,53045,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Black, Red, Multi",FNF,2666.0
+96,50895,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green & Cream Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Cream, Brown",Prafful,1099.0
+97,52960,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4348.0
+98,50861,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Cream & Purple Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Cream, Purple, Green",Prafful,1299.0
+99,52958,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, Beige",FNF,4000.0
+100,50859,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Purple & Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Green",Prafful,1299.0
+101,53042,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Women Red Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Red,FNF,2666.0
+102,50866,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Black Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Black, Red, Green",Prafful,1299.0
+103,52967,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Maroon, Silver",FNF,4456.0
+104,52993,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Blue, Pink, Mustard",FNF,3914.0
+105,50892,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Red & Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Maroon, Blue, Purple",Prafful,1299.0
+106,34965,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Burgundy Silk Hand Printed Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Burgundy,Fabindia,6390.0
+107,59591,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Black Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Red, Black",FNF,5120.0
+108,52945,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Black Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Black, Blue, Grey",FNF,1598.0
+109,34991,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Blue Cotton Mull Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Blue,Fabindia,1230.0
+110,42320,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Purple Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Purple,Prafful,1299.0
+111,34996,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Rust Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Rust,Fabindia,1790.0
+112,59596,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Brown Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, Green, Bronze",FNF,9000.0
+113,52942,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Pink Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Pink,FNF,1598.0
+114,34962,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Black",Fabindia,1130.0
+115,52989,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Green Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Blue",FNF,3478.0
+116,42327,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Navy & Brown Georgette Printed Saree,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Navy Blue, Brown",Prafful,1299.0
+117,50881,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Women Black Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Black, Green, Brown",Prafful,1299.0
+118,52980,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Red",FNF,4130.0
+119,34954,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Beige Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Blue",Fabindia,1130.0
+120,50875,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green & Maroon Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Maroon",Prafful,1099.0
+121,53051,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Maroon Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Maroon,FNF,2666.0
+122,50872,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Mustard & Maroon Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Mustard, Maroon, Beige",Prafful,1299.0
+123,34953,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Beige,Fabindia,1130.0
+124,52973,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, Multi",FNF,3804.0
+125,52987,Women,Apparel,Saree,Sarees,Winter,2012.0,Ethnic,FNF Women Green & Cream Fashion Saree,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Cream, Maroon",FNF,3370.0
+126,42329,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Blue Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Blue,Prafful,1299.0
+127,50886,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Red, Blue",Prafful,1099.0
+128,59598,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Brown Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, Green",FNF,9000.0
+129,53056,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2862.0
+130,34998,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Black Cotton Silk Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Black,Fabindia,2730.0
+131,52918,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Purple Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,FNF,1598.0
+132,53002,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Purple,FNF,4226.0
+133,52927,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF White Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Blue, White",FNF,1598.0
+134,45990,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Pink Mangalagiri Sari,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Pink,Fabindia,1890.0
+135,45997,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Black Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Black,Fabindia,1690.0
+136,52920,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed White Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Brown",FNF,1598.0
+137,53033,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Yellow Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Yellow, Black, Multi",FNF,2666.0
+138,52929,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Yellow, Pink",FNF,1598.0
+139,52916,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Black Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Black, Red, Green",FNF,1598.0
+140,45999,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Green Self-Striped Saree,Solid,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Green,Fabindia,1690.0
+141,53034,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2862.0
+142,52911,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Mustard Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Maroon",FNF,1598.0
+143,52986,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,3370.0
+144,50887,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Mustard & Navy Blue Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Mustard, Navy Blue, Red",Prafful,1099.0
+145,50873,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Maroon & Black Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Maroon, Black, Beige",Prafful,1299.0
+146,52972,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,3804.0
+147,34952,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Beige Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Blue",Fabindia,1130.0
+148,53057,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,2862.0
+149,59599,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Blue Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, Blue, Bronze",FNF,9000.0
+150,34955,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Blue",Fabindia,1130.0
+151,52975,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,3370.0
+152,50874,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Purple & Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, Green, Mustard",Prafful,1099.0
+153,50880,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Black & Beige Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Black, Maroon, Beige",Prafful,1299.0
+154,52981,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,"Green, Maroon",FNF,4130.0
+155,53050,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, Purple, Green",FNF,2666.0
+156,34963,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Printed Green Silk Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Green,Fabindia,6390.0
+157,52943,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Yellow Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Yellow,FNF,1598.0
+158,59597,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green & Purple Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Purple, Bronze",FNF,9000.0
+159,34997,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Pink Hand Printed Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Pink,Fabindia,1790.0
+160,42319,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Navy Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Navy Blue,Prafful,1299.0
+161,50889,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,Prafful,1299.0
+162,52988,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Mustard Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Green, Red",FNF,3478.0
+163,42326,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Red Georgette Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Red,Prafful,899.0
+164,31886,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women Orange Cotton Silk Saree,Printed,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Orange,Fabindia,3230.0
+165,34990,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Grey Cotton Mull Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Grey,Fabindia,1230.0
+166,52944,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Off White, Blue, Red",FNF,1598.0
+167,59590,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Black Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Red, Black, Beige",FNF,5206.0
+168,53035,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,2862.0
+169,45998,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Blue Self-Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Blue,Fabindia,1690.0
+170,52910,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Pink Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Pink,FNF,1598.0
+171,52928,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Orange, Blue",FNF,1598.0
+172,53032,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Red, Multi",FNF,2666.0
+173,52917,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Orange Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Orange,FNF,1598.0
+174,53004,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Grey Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Grey, Red",FNF,4226.0
+175,52921,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Mustard Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Mustard, Purple",FNF,1598.0
+176,45996,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Cream-Coloured & Red Hand Printed Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,"Cream, Red",Fabindia,1390.0
+177,53003,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,4476.0
+178,52919,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF White Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Brown",FNF,1598.0
+179,45991,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Pink Mangalagiri Saree,Zari,Without Blouse Piece,Cotton Blend,"Woven Design, Woven Design",Not specified,Pink,Fabindia,1890.0
+180,52926,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Seagreen Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Sea Green",FNF,1598.0
+181,59646,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Green, Red, Purple",FNF,4726.0
+182,59641,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Orange & Cream Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Orange, Cream",FNF,9000.0
+183,52898,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Pink,FNF,2798.0
+184,52891,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Pink,FNF,2798.0
+185,57973,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Brown Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Brown,Prafful,899.0
+186,59648,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multicoloured Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Multi, Green, Yellow",FNF,3720.0
+187,46002,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Turquoise Blue Hand Printed Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Turquoise Blue, Green, White",Fabindia,1490.0
+188,57974,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,Prafful,899.0
+189,59670,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue & Brown Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Blue, Brown",FNF,3630.0
+190,52896,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Pink Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Pink,FNF,2798.0
+191,46005,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Mustard Yellow & Green Striped Mangalgiri Saree,No Border,Without Blouse Piece,Cotton Blend,"Striped, Striped",Not specified,"Mustard, Green",Fabindia,1590.0
+192,50908,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Navy Blue Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Navy Blue, Rust",Prafful,1299.0
+193,59624,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Black & Red Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Black, Red",FNF,9000.0
+194,59623,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Light Orange Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Orange, Pink, Silver",FNF,9000.0
+195,59615,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Gold",FNF,9000.0
+196,50906,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Grey & Pink Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Pink, Grey",Prafful,1299.0
+197,50901,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Grey & Maroon Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Grey, Maroon",Prafful,1099.0
+198,59612,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Pink, Gold, Green",FNF,9000.0
+199,52897,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,FNF,2798.0
+200,57975,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Green,Prafful,899.0
+201,46004,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Green & Blue Striped Mangalgiri Saree,No Border,Without Blouse Piece,Cotton Blend,"Striped, Striped",Not specified,"Green, Blue",Fabindia,1590.0
+202,57972,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Women Multi Coloured Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,Prafful,899.0
+203,52890,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, Beige",FNF,2798.0
+204,46003,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Purple & Blue Striped Saree,No Border,Without Blouse Piece,Cotton Blend,"Striped, Striped",Not specified,"Purple, Blue",Fabindia,1590.0
+205,59649,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Orange Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Orange, Red, Yellow",FNF,4330.0
+206,59640,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Magenta Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Magenta, Blue, Silver",FNF,9000.0
+207,52899,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Blue, White",FNF,2798.0
+208,59647,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Yellow, Black, Red",FNF,3370.0
+209,59613,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Green Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Gold",FNF,9000.0
+210,50900,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Grey & Red Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Grey, Red, Green",Prafful,1099.0
+211,12345,Women,Apparel,Saree,Sarees,Spring,2018.0,Ethnic,Xoxo Women Maroon Pure Georgette Solid Ready-to-wear Saree,No Border,Without Blouse Piece,Pure Georgette,"Solid, Solid",Not specified,Maroon,Xoxo,0.1
+212,50907,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Blue and Maroon Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, Maroon, Green",Prafful,1299.0
+213,59614,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Pink, Gold",FNF,9000.0
+214,59622,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Black",FNF,9000.0
+215,59625,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Orange & Purple Wedding Collection sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Gold, Orange",FNF,9000.0
+216,57965,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,Prafful,899.0
+217,59661,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Blue, Purple, Orange",FNF,3630.0
+218,52887,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Blue,FNF,2798.0
+219,59659,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Purple,FNF,3940.0
+220,46013,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Red Self-Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Red,Fabindia,3890.0
+221,52880,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Green Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Green,FNF,1598.0
+222,59666,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multicoloured Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Multi, Blue, Mustard",FNF,3630.0
+223,57962,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Women Multi Coloured Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,Prafful,899.0
+224,52874,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,FNF,1598.0
+225,52889,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Blue,FNF,2798.0
+226,59650,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Red, Pink, Green",FNF,4330.0
+227,57954,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Olive Green Georgette Printed Saree,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Olive,Prafful,899.0
+228,59668,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Multi, Green",FNF,3850.0
+229,57953,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Purple Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Purple,Prafful,899.0
+230,59657,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Blue Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Blue, Red, Mustard",FNF,3630.0
+231,50910,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Beige & Maroon Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Maroon, Beige, Green",Prafful,1299.0
+232,59603,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Brown Collection for Wedding Wear Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, Olive, Gold",FNF,9000.0
+233,59604,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Olive Printed Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Olive, Gold",FNF,9000.0
+234,59632,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Olive Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Olive, Pink, Gold",FNF,9000.0
+235,59635,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Brown Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,FNF,9000.0
+236,59669,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow & Green Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Yellow, Green",FNF,3940.0
+237,59656,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue & White Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Blue, White, Pink",FNF,3940.0
+238,57952,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Off White Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Off White, Pink",Prafful,899.0
+239,52888,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Yellow,FNF,2798.0
+240,59651,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Cream & Pink Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Cream, Pink, Green",FNF,4726.0
+241,46012,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Black Self-Striped Saree,Solid,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Black,Fabindia,3890.0
+242,59658,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Blue Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Blue, Yellow, Red",FNF,3630.0
+243,57963,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Women Multi Coloured Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,Multi,Prafful,899.0
+244,52875,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Multi, White, Green",FNF,1598.0
+245,59667,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green & Red Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Red, Blue",FNF,3850.0
+246,52881,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Green,FNF,1598.0
+247,52886,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Magenta",FNF,2798.0
+248,59660,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink & Purple Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Purple, Pink, Mustard",FNF,4550.0
+249,57964,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Brown Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, Teal",Prafful,899.0
+250,59634,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green & Red Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Red",FNF,9000.0
+251,59633,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Pink, Blue",FNF,9000.0
+252,56686,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Red Mull Printed Saree,Printed,Blouse Piece,"Cotton Blend, Cotton Blend","Ethnic Motifs, Printed",Not specified,Maroon,Fabindia,1330.0
+253,50911,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Beige & Black Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Beige, Black",Prafful,1099.0
+254,59589,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Purple, Pink",FNF,6080.0
+255,53047,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,Multi,FNF,2862.0
+256,34989,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Green Cotton Mull Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Green, Black",Fabindia,1230.0
+257,52962,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, Black",FNF,3370.0
+258,52996,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4226.0
+259,53040,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2274.0
+260,52991,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green & Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Blue",FNF,4566.0
+261,50890,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Yellow & Maroon Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Yellow, Maroon, Sea Green",Prafful,1299.0
+262,50864,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Purple & Pink Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Pink, Green",Prafful,1299.0
+263,52965,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Purple Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Red, Green",FNF,4240.0
+264,52998,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,"Blue, Red",FNF,4226.0
+265,50899,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Beige & Purple Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Beige, Purple",Prafful,1299.0
+266,53049,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,Multi,FNF,2862.0
+267,42309,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Grey Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Grey,Prafful,1299.0
+268,34987,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Red Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Red,Fabindia,1130.0
+269,52953,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,3876.0
+270,50852,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Women Red Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, Green",Prafful,1299.0
+271,42331,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Navy Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Navy Blue,Prafful,1299.0
+272,50855,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Women Cream Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Cream, Green, Black",Prafful,1299.0
+273,52954,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Purple",FNF,3000.0
+274,45988,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Black Mangalagiri Saree,Zari,Without Blouse Piece,Silk Cotton,"Checked, Woven Design",Not specified,Black,Fabindia,1890.0
+275,53025,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,2666.0
+276,52907,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Mustard Printed Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Mustard, Red, White",FNF,1598.0
+277,52938,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Pink Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Pink,FNF,1598.0
+278,52931,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Blue Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Blue, Red",FNF,1598.0
+279,45986,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Black Mangalagiri Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Black,Fabindia,1890.0
+280,53014,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Red,FNF,17500.0
+281,49922,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Pink Tie & Dye Ghicha Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Woven Design",Not specified,Pink,Fabindia,4590.0
+282,52936,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Blue,FNF,1598.0
+283,49925,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Green Maheshwari Zari Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Green,Fabindia,3230.0
+284,52909,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Green, Blue, White",FNF,1598.0
+285,53013,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4476.0
+286,42330,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Multicoloured Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Multi,Prafful,1299.0
+287,34981,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Green Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Green,Fabindia,2660.0
+288,50854,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful White & Red Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"White, Red, Black",Prafful,1299.0
+289,52955,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Mustard Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Green, Purple",FNF,3000.0
+290,52999,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Yellow, Red",FNF,3800.0
+291,50898,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Beige & Maroon Printed Sari,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,"Beige, Maroon",Prafful,1299.0
+292,52952,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,3876.0
+293,50853,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Green & Orange Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Orange",Prafful,1299.0
+294,34986,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Beige Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Black",Fabindia,1130.0
+295,53048,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,Multi,FNF,2862.0
+296,42308,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Magenta Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,Magenta,Prafful,1299.0
+297,53041,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2274.0
+298,50865,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green & Purple Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Purple, Brown",Prafful,1299.0
+299,52964,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Red Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Red, Green, Purple",FNF,4240.0
+300,52990,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4566.0
+301,50891,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Blue, Rust",Prafful,1299.0
+302,34988,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Navy Blue Cotton Mull Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Navy Blue, Black",Fabindia,1230.0
+303,53046,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2862.0
+304,50896,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Mustard & Maroon Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Maroon, Blue",Prafful,1099.0
+305,52963,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Red Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Red, Black, Pink",FNF,3370.0
+306,52937,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, White",FNF,1598.0
+307,49924,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Green Maheshwari Maheshwari Zari Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Green,Fabindia,3230.0
+308,52908,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Blue,FNF,1598.0
+309,45987,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Green Mangalagiri Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,"Green, Gold",Fabindia,1890.0
+310,52930,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,1598.0
+311,49923,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Red Tie & Dye Ghicha Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Woven Design",Not specified,Red,Fabindia,4590.0
+312,53015,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Maroon Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Maroon, Gold",FNF,12650.0
+313,52906,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Green Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Pink",FNF,2698.0
+314,49915,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Brown Hand Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"Brown, Red, Beige",Fabindia,2990.0
+315,53023,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Women Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Blue,FNF,2666.0
+316,52901,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,2698.0
+317,53024,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2666.0
+318,45989,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Green Mangalagiri Saree,Zari,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Green,Fabindia,1890.0
+319,53006,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,"Multi, Beige",FNF,4226.0
+320,49930,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Fabindia Yellow Self-Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Yellow,Fabindia,2930.0
+321,53039,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,Multi,FNF,2862.0
+322,45994,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Teal Green Mangalgiri Saree,Solid,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Teal,Fabindia,1890.0
+323,52923,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Pink,FNF,1598.0
+324,53001,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,Multi,FNF,4226.0
+325,52924,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, White",FNF,1598.0
+326,45993,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Maroon Mangalgiri Saree,Solid,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Maroon,Fabindia,1890.0
+327,53037,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Red, Green, Yellow",FNF,2666.0
+328,52912,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Green,FNF,1598.0
+329,53008,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,3800.0
+330,53030,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2666.0
+331,52915,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Women Printed White Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"White, Red, Green",FNF,1598.0
+332,34995,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Green Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Green,Fabindia,1790.0
+333,31877,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women Green Printed Kota Cotton Saree,Printed,Without Blouse Piece,Silk Cotton,"Ethnic Motifs, Printed",Not specified,Green,Fabindia,1790.0
+334,34961,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Rust",Fabindia,1130.0
+335,59595,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Blue",FNF,9000.0
+336,52941,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,1598.0
+337,31074,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Off White Embroidered Traditional Cotton Saree,Woven Design,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Off White,Fabindia,5930.0
+338,59592,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & White Evening Wear Sari,Not specified,Not specified,"Polycotton, Polycotton",Not specified,Not specified,"Red, White",FNF,5996.0
+339,52946,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Magenta Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Magenta,FNF,3626.0
+340,34992,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Navy Blue Cotton Mull Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Navy Blue,Fabindia,1230.0
+341,50878,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Beige & Red Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,"Beige, Red",Prafful,1299.0
+342,34959,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Beige & Rust Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Maroon",Fabindia,1130.0
+343,52979,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4566.0
+344,42323,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Navy Georgette Printed Saree,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Navy Blue,Prafful,899.0
+345,50871,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Mustard Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Green, Red",Prafful,1299.0
+346,52970,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,4022.0
+347,34950,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Beige Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Beige,Fabindia,1130.0
+348,50885,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Multi, Navy Blue, Green",Prafful,1299.0
+349,53055,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, Black",FNF,2862.0
+350,50882,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Mustard Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Green, Red",Prafful,1099.0
+351,52983,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Striped Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Maroon, Purple, Multi",FNF,4130.0
+352,34957,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Beige,Fabindia,1130.0
+353,50876,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Green & Beige Crepe Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Beige, Maroon",Prafful,1099.0
+354,53052,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,2666.0
+355,52948,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4500.0
+356,53031,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Yellow Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Yellow, Beige, Black",FNF,2666.0
+357,52914,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Red Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Red, Green, Grey",FNF,1598.0
+358,53036,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Printed Blue Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, Yellow, Green",FNF,2666.0
+359,34302,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Green Silk Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Green,Fabindia,5930.0
+360,53009,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,3800.0
+361,52913,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Women Multi Coloured Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,1598.0
+362,51101,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Satya Paul Green Printed Saree,Printed,Without Blouse Piece,Silk Blend,"Abstract, Printed",Not specified,Green,Satya Paul,7995.0
+363,53000,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Multi,FNF,4226.0
+364,45992,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Pink Mangalgiri Saree,Solid,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,Pink,Fabindia,1890.0
+365,52925,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Lavender Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Lavender,FNF,1598.0
+366,53007,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Blue, Pink, Multi",FNF,4476.0
+367,52922,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Rust Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Rust, Blue",FNF,1598.0
+368,45995,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Cream-Coloured & Blue Hand Printed Saree,Printed,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,"Cream, Blue",Fabindia,1390.0
+369,53038,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Chiffon, Poly Chiffon",Not specified,Not specified,Multi,FNF,2862.0
+370,52976,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4566.0
+371,34956,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Beige,Fabindia,1130.0
+372,50877,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Purple & Beige Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Beige, Mustard",Prafful,1099.0
+373,50883,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Purple & Green Crepe Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, Blue, Green",Prafful,1299.0
+374,52982,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Green,FNF,4130.0
+375,52949,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4500.0
+376,42313,Women,Apparel,Saree,Sarees,Summer,2010.0,Ethnic,Prafful Belge & Red Crepe Printed Saree,Not specified,Not specified,"Poly Crepe, Poly Crepe",Not specified,Not specified,"Beige, Red",Prafful,1299.0
+377,53053,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Multi,FNF,2666.0
+378,50884,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Multi, Green, Blue",Prafful,1299.0
+379,50870,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Multi Coloured Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Multi, Blue, Orange",Prafful,1299.0
+380,34951,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Beige Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Blue",Fabindia,1130.0
+381,52971,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Printed Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Yellow, Multi",FNF,4022.0
+382,53054,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Yellow Printed Sari,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,"Yellow, Green, Off White",FNF,2862.0
+383,31885,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women White Cotton Silk Saree,Printed,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,White,Fabindia,3230.0
+384,34993,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Olive Green Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Olive,Fabindia,1230.0
+385,52947,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,3626.0
+386,59593,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue & Purple Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Blue, Purple",FNF,9000.0
+387,42322,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Maroon Georgette Printed Saree,Not specified,Not specified,"Poly Georgette, Poly Georgette",Not specified,Not specified,Maroon,Prafful,999.0
+388,50879,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Beige & Navy Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Beige, Navy Blue, Maroon",Prafful,1299.0
+389,52978,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multi Coloured Sari,Not specified,Not specified,Not specified,Not specified,Not specified,Multi,FNF,4566.0
+390,34958,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Red Jaipur Print Cotton Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Red,Fabindia,1130.0
+391,31876,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women Blue Printed Kota Cotton Saree,Printed,Without Blouse Piece,Cotton Blend,"Floral, Printed",Not specified,Blue,Fabindia,1790.0
+392,52940,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Yellow Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Yellow, White",FNF,1598.0
+393,59594,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Rust Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Rust, Red",FNF,9000.0
+394,34960,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Women H& Printed Beige Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,"Beige, Red",Fabindia,1130.0
+395,34994,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia H& Printed Mustard Cotton Mull Sari,No Border,Blouse Piece,"Cotton Blend, Cotton Blend","Solid, Solid",Not specified,Mustard,Fabindia,1230.0
+396,59620,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Green & Black Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Black",FNF,9000.0
+397,59618,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red & Gold Printed Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Red, Green, Gold",FNF,9000.0
+398,50902,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Pink & Green Crepe Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Pink",Prafful,1299.0
+399,59611,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Blue Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Blue, Gold, Maroon",FNF,9000.0
+400,59616,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,FNF Purple Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Bronze",FNF,9000.0
+401,50905,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Mustard & Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Mustard, Green, Purple",Prafful,1099.0
+402,59642,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Pink & Black Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Black, Gold, Red",FNF,9000.0
+403,46008,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Maroon Printed Saree,Solid,Without Blouse Piece,Cotton Blend,"Ethnic Motifs, Printed",Not specified,Maroon,Fabindia,1230.0
+404,59645,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple & Gold Collection For Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Purple, Gold",FNF,9000.0
+405,52895,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Red",FNF,2798.0
+406,46006,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Magenta & Orange Striped Saree Mangalgiri Saree,No Border,Without Blouse Piece,Cotton Blend,"Striped, Striped",Not specified,"Magenta, Orange",Fabindia,1590.0
+407,59674,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Grey Wedding Collection One Minute Saree,Embroidered,Blouse Piece,Net,"Embellished, Embellished",Not specified,"Blue, Grey",FNF,15000.0
+408,52892,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Purple Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Purple,FNF,2798.0
+409,57970,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Black",Prafful,899.0
+410,46001,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Green Printed Kota Saree,Printed,Without Blouse Piece,Silk Cotton,"Ethnic Motifs, Printed",Not specified,Green,Fabindia,1490.0
+411,59628,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Maroon & Cream Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Maroon, Cream",FNF,9000.0
+412,50904,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Green & Maroon Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Green, Maroon, Navy Blue",Prafful,1099.0
+413,59610,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Rust Collection for Wedding Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Rust, Gold, Red",FNF,9000.0
+414,50903,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Purple & Blue Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Purple, Blue, Mustard",Prafful,1299.0
+415,59619,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Maroon Printed Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Maroon, Gold",FNF,9000.0
+416,59626,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Green & Purple Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Green, Purple, Bronze",FNF,9000.0
+417,59621,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Brown & Gold Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Brown, Bronze, Gold",FNF,9000.0
+418,57971,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,Prafful Rust Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Rust, Teal",Prafful,899.0
+419,52893,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,Red,FNF,2798.0
+420,46000,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Red Self-Striped Saree,Solid,Without Blouse Piece,Silk Cotton,"Solid, Solid",Not specified,Red,Fabindia,1690.0
+421,52894,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Red Printed Sari,Not specified,Not specified,"Cotton Blend, Cotton Blend",Not specified,Not specified,"Red, Green, Mustard",FNF,2798.0
+422,57976,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Prafful Pink Printed Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Pink, Grey",Prafful,899.0
+423,46007,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Blue Mull Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"Blue, Black",Fabindia,1230.0
+424,59644,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Cream & Red Wedding Collection Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Cream, Black, Red",FNF,9000.0
+425,46009,Women,Apparel,Saree,Sarees,Summer,2012.0,Ethnic,Fabindia Olive Mull Hand Printed Sari,No Border,Without Blouse Piece,Cotton Blend,"Solid, Solid",Not specified,"Olive, Brown",Fabindia,1230.0
+426,59643,Women,Apparel,Saree,Sarees,Fall,2012.0,Ethnic,FNF Multicoloured Evening Wear Sari,Not specified,Not specified,Not specified,Not specified,Not specified,"Grey, Teal, Orange",FNF,9000.0

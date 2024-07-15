@@ -1,0 +1,528 @@
+,id,gender,masterCategory,subCategory,articleType,season,year,usage,productDisplayName,Total Shelf Life in Months,Minimum Usable Period in Months,Features,Finish,Units Per Bundle,Concern,Minimum Shelf Life in Months,Colour,Brand,Price
+0,56019,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Show Stopper Copper Lipstick 037,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,450
+1,56026,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Mousse Lipstick 025,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,325
+2,55491,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Gold Dust Poussiere Doree Colorburst Lip Gloss 024,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Revlon,525
+3,55465,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lusterous Lipstick 304,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Red,Revlon,550
+4,55001,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Lip Last Day Kiss Lip Colour,24,Not specified,Moisturising,Natural,1,Not specified,Not specified,Pink,Lakme,575
+5,55039,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Merlot Lipstick 45,24,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Brown,Lakme,525
+6,57563,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Nutty Brown Lipstick 666,24,12,Moisturising,Natural,1,Not specified,6,Brown,Lotus Herbals,275
+7,55006,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Sheer Satin Lip Gloss 51,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Copper,Lakme,325
+8,55462,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lustrous Plum Baby Lipstick 313,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Purple,Revlon,550
+9,55496,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorBurst Hot Pink Lip Gloss 10,36,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Pink,Revlon,525
+10,56021,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Venus Lipstick 034,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Mauve,Colorbar,325
+11,57597,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Rudy Pink Lipstick 140,24,12,Moisturising,Natural,1,Not specified,6,Pink,Lotus Herbals,349
+12,56028,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Spring Fling Lipstick 023,36,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Maroon,Colorbar,475
+13,55454,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Velvet Touch Royal Burgundy Lipstick 96,24,12,Moisturising,Matte,1,Not specified,6,Burgundy,Revlon,550
+14,55202,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Lakme Lip Love Hottie Lip Conditioner,Not specified,Not specified,Not specified,Matte,Not specified,Dry Lips,Not specified,Pink,Lakme,225
+15,57555,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals SPF-10 Tulip Love Lipstick 417,24,Not specified,SPF,Natural,1,Not specified,Not specified,Pink,Lotus Herbals,375
+16,55030,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Milan Red Lipstick 48,24,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Lakme,525
+17,56017,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Wood Heart Lipstick 039,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,450
+18,57599,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Berry Punch Lipstick 121,24,Not specified,Regular,Natural,1,Not specified,Not specified,Burgundy,Lotus Herbals,349
+19,55498,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorBurst Strawberry Lip Gloss 06,36,Not specified,Moisturising,Glossy,1,Not specified,Not specified,"Pink, Beige",Revlon,525
+20,55008,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Sheer Satin Lip Gloss 41,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Maroon,Lakme,325
+21,56010,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Hot Hot Hot Red Lipstick 01R,36,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Colorbar,325
+22,55037,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Bitter Chocolate Lipstick 53,24,Not specified,Regular,Matte,1,Not specified,Not specified,Brown,Lakme,500
+23,55205,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Lip Love Dark Desire Lipstick B122A,Not specified,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,725
+24,57552,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floralstay Copper Toast Lip Color 424,24,Not specified,SPF,Natural,1,Not specified,Not specified,Copper,Lotus Herbals,375
+25,56044,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Full Finish Longwear Kiss Me Lipstick 07,36,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Brown,Colorbar,725
+26,55063,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 421,24,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Lakme,230
+27,57734,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Fruity Fusion Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Maroon,Lotus Herbals,155
+28,55407,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorStay Overtime Relentless Raisin Lip Gloss 270,24,12,Regular,Glossy,1,Not specified,6,"Purple, White",Revlon,960
+29,49093,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah 24 Ore Lip Liner 220,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Mauve,Deborah,375
+30,55438,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Mauve Colorburst Lipstick 005,36,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Revlon,630
+31,55064,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 265,24,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Lakme,225
+32,57733,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Cocoa Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Lotus Herbals,135
+33,56043,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Keep Blushing Full Finish Longwear Lipstick 08,36,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Purple,Colorbar,725
+34,56088,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Shock-o-Late Lip Gloss 04,36,Not specified,Regular,Glitter,1,Not specified,Not specified,Brown,Colorbar,325
+35,55052,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 134,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,230
+36,56081,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Clear Glaze Star Shine Lip Gloss 015,24,12,Regular,Glitter,1,Not specified,6,Silver,Colorbar,325
+37,55436,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Raspberry Colorburst Lipstick 045,36,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Revlon,630
+38,56075,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Plum Lip Liner/Crayon 004,24,12,Not specified,Not specified,1,Not specified,6,Mauve,Colorbar,399
+39,55294,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Absolute Beigeshine Plump & Shine Lip Gloss,Not specified,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Pink,Lakme,475
+40,55409,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon ColorStay Overtime Everlasting Rum Lipcolor 370,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Revlon,960
+41,55293,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Absolute Coralshine Plump & Shine Lip Gloss,Not specified,Not specified,Regular,Glossy,1,Not specified,Not specified,Peach,Lakme,450
+42,56072,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Wild Berry Lip Liner /Crayon 011,24,12,Not specified,Not specified,1,Not specified,6,Brown,Colorbar,399
+43,55431,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon True Red Colorburst Lipstick 090,36,Not specified,Regular,Creme,1,Not specified,Not specified,Red,Revlon,630
+44,56086,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,ColorBar Star Shine Chai Lip Gloss 07,24,12,Regular,Glossy,1,Not specified,6,Brown,Colorbar,325
+45,55055,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 131,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,225
+46,55009,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Sheer Satin Lip Gloss 23,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Purple,Lakme,325
+47,57598,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Raspberry Punch Lipstick 122,24,12,Moisturising,Natural,1,Not specified,6,Brown,Lotus Herbals,349
+48,55499,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Pink Ice Glace Rose Colorburst Lip Gloss 004,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Revlon,525
+49,57553,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floralstay Truffle Story Lip Color 423,24,Not specified,SPF,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,375
+50,55036,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Expresso Lipstick 55,24,Not specified,Regular,Matte,1,Not specified,Not specified,Brown,Lakme,500
+51,56011,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Rhinestone Lipstick 045,24,12,Regular,Natural,1,Not specified,6,Burgundy,Colorbar,450
+52,56029,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Coral Crush Lipstick 022,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Maroon,Colorbar,325
+53,56016,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Citrine Lipstick 040,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Orange,Colorbar,550
+54,55455,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Velvet Touch  Lipstick 659,24,12,Moisturising,Matte,1,Not specified,6,Lavender,Revlon,550
+55,55031,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Pure Glam Lipstick 201,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,525
+56,55203,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Lakme Lip Love Flirt Lip Conditioner,Not specified,Not specified,Not specified,Matte,Not specified,Dry Lips,Not specified,Pink,Lakme,225
+57,57554,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals SPF-10 Coffee Berry Lipstick 422,24,12,SPF,Natural,1,Not specified,6,Brown,Lotus Herbals,375
+58,55038,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Brick Lipstick 51,24,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Lakme,525
+59,56020,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Felin Lipstick 036,36,Not specified,Regular,Natural,1,Not specified,Not specified,Purple,Colorbar,325
+60,55497,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Peony Pivoine Lip Gloss 008,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Revlon,500
+61,57596,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Rose Lipstick 141,24,Not specified,Regular,Natural,1,Not specified,Not specified,Rose,Lotus Herbals,349
+62,55007,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Sheer Satin Lip Gloss 11,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Pink,Lakme,325
+63,57562,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors  Moisturising Pink Blush Lipstick 614,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Pink,Lotus Herbals,275
+64,55463,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lusterous Perfectly Plum Lipstick 325,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Maroon,Revlon,599
+65,56018,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Show Pink Charm Lipstick 038,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Pink,Colorbar,450
+66,55464,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lusterous Mulled Wine Lipstick 305,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Maroon,Revlon,550
+67,55000,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Absolute Liplast Day Rose Lip Gloss,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Pink,Lakme,575
+68,57591,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Iced Coffee Lipstick 161,24,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,349
+69,55490,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Rose Gold Colorburst Lip Gloss 026,36,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Rose,Revlon,525
+70,56027,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Brazil Nut Lipstick 024,24,12,Regular,Natural,1,Not specified,6,Brown,Colorbar,325
+71,56087,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Lip Gloss 05,24,12,Regular,Glitter,1,Not specified,6,Pink,Colorbar,325
+72,55430,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Honey Colorburst Lipstick 097,24,12,Regular,Creme,1,Not specified,6,Peach,Revlon,630
+73,55054,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 132,24,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,225
+74,55292,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Absolute Cherryshine Plump & Shine Pink Lip Gloss,24,6,Regular,Glossy,1,Not specified,24,Pink,Lakme,475
+75,56073,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Very Cherry Lip Liner /Crayon 010,24,12,Not specified,Not specified,1,Not specified,6,Brown,Colorbar,399
+76,56074,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Nude Pink Lip Liner/Crayon 007,24,12,Not specified,Not specified,1,Not specified,6,Brown,Colorbar,399
+77,55295,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Absolute Berryshine Plump & Shine Lip Gloss,Not specified,Not specified,Regular,Glossy,1,Not specified,Not specified,Pink,Lakme,450
+78,55053,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 133,24,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Lakme,230
+79,55437,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Peach Colorburst Lipstick 075,36,Not specified,Regular,Creme,1,Not specified,Not specified,Peach,Revlon,630
+80,56080,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Coral Glaze Lip Gloss 016,24,12,Regular,Glitter,1,Not specified,6,Red,Colorbar,325
+81,55408,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorStay Overtime Faithful Fawn Lip Color 320,36,Not specified,Regular,Glossy,1,Not specified,Not specified,Brown,Revlon,960
+82,56042,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Plum Dressing Lipstick 09,24,12,Long Lasting,Matte,1,Not specified,6,Purple,Colorbar,825
+83,55065,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Enrich Satins Lipstick 128,24,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Lakme,240
+84,57732,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Vanilla Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Cream,Lotus Herbals,135
+85,56089,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Jewel Bright Star Shine Lip Gloss 03,36,Not specified,Regular,Glitter,1,Not specified,Not specified,Pink,Colorbar,325
+86,55062,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 422,24,Not specified,Regular,Creme,1,Not specified,Not specified,Red,Lakme,240
+87,57735,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Raspberry Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Lotus Herbals,155
+88,56045,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Plum Show Lipstick 06,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Maroon,Colorbar,595
+89,55439,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Lilac Colorburst Lipstick 001,36,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Revlon,610
+90,49092,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah 24 Ore Lip Liner 219,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Coffee Brown,Deborah,375
+91,56108,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Mettalics Bare Necessity Lip Gloss 001,24,12,Moisturising,Glitter,1,Not specified,6,"Maroon, Rust",Colorbar,325
+92,49114,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Beige Couture 18 Atomic Red Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Beige,Deborah,560
+93,56553,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Mineral Coral Glow Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Streetwear,350
+94,55587,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorStay Overtime Boundless Brandy Lip Gloss 250,24,12,Long Lasting,Glossy,1,Not specified,6,"Burgundy, Nude",Revlon,960
+95,56554,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Mineral Sugar Babe Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,350
+96,56562,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Lip Gloss 48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,235
+97,56106,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Mettalics Cocoa Bean Lip Gloss 003,24,12,Moisturising,Glitter,1,Not specified,6,Brown,Colorbar,325
+98,49122,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Purple Light Creator Shine Volume 5 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Magenta,Deborah,595
+99,56101,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Musky Rose Star Lip Gloss 03,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Colorbar,325
+100,56565,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Awesome Lip Gloss 40,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+101,56531,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Mauve Mania Lipcolor 19,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Mauve,Streetwear,235
+102,49149,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah Extra Lip Liner 02,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,400
+103,55985,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Grape Wine Lipstick 47P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+104,55971,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Pretty Please 1 Lipstick 79V,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Red,Colorbar,325
+105,55511,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Cherries In The Glow Super Lustrous Lip Gloss 20,24,12,Moisturising,Glossy,1,Not specified,6,Red,Revlon,455
+106,56536,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Cocoa Flakes Lipstick 23,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,160
+107,55976,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Secretly Pink Lipstick 62P,36,12,Moisturising,Matte,1,Not specified,6,Pink,Colorbar,325
+108,57877,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Biotique Bio Lip Sunflower Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Green,Biotique,135
+109,56509,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Lusicious Lips Hint of Pink Lipcolor 14,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,415
+110,55982,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Very Coffee Lipstick 51 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+111,56507,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Shine Divine Pink Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,425
+112,55978,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Obsessed Orange Lipstick 60 OR,36,12,Moisturising,Matte,1,Not specified,6,Orange,Colorbar,325
+113,49140,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Deborah Golden Pink Euphoric Shine 04 Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+114,49123,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Pink Light Creator Shine Volume 6 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+115,56100,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Winter Plum Lip Gloss 04,24,12,Moisturising,Glossy,1,Not specified,6,Purple,Colorbar,325
+116,56564,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Bashful Lip Gloss 41,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+117,49124,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Pink Light Creator Shine Volume 9 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+118,56563,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Jelly Lip Gloss 17,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+119,56107,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Metal Assertive Lip Gloss 002,24,12,Moisturising,Glitter,1,Not specified,6,Red,Colorbar,325
+120,56555,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Streetwear Stawberry Lip Gloss 47,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+121,49115,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Atomic Red 19 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,560
+122,56109,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,ColorBar Temptress Lip Pot 018,24,12,Moisturising,Natural,1,Not specified,6,Red,Colorbar,495
+123,55979,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Peach Crush Lipstick 59P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Peach,Colorbar,325
+124,56506,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Shine Divine Nude Silk Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Skin,Streetwear,425
+125,49141,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Deborah Euphoric Shine Lip Gloss 10,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,595
+126,56539,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Cherry Crush Lipstick 09,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Streetwear,285
+127,56537,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Women Satin Smooth Cherry Crush Lipstick o9,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+128,55510,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Chocolate Frost Super Lustrous Lip Gloss 60,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Revlon,455
+129,55983,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Forever Mauve Lipstick 50MA,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Burgundy,Colorbar,325
+130,56508,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Lusicious Lips Luminous Brown Lipcolor 19,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,385
+131,55977,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Thrilling Pink Lipstick 61P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Pink,Colorbar,325
+132,49148,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,,Deborah Extra Lip Liner 01,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,400
+133,56530,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Miss Maroon Lipstick 10,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Maroon,Streetwear,250
+134,55970,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Hearts & Tarts Lipstick 80V,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Red,Colorbar,325
+135,55984,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Love That Rust Lipstick 48 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Red,Colorbar,325
+136,57606,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Grape Wine Lipstick 110,24,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,349
+137,56512,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Lusicious Lips Classy Mauve Lipcolor 17,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Mauve,Streetwear,415
+138,55999,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Velvet Matte Coffee Bean Lipstick 16 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+139,49152,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,,Deborah Extra Lip Liner 05,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,"Copper, Brown",Deborah,400
+140,56515,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Streetwear Luscious Lips Pure Burgundy Lipstick 07,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Burgundy,Streetwear,415
+141,57601,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Rose Glide Lipstick 115,24,Not specified,Regular,Natural,1,Not specified,Not specified,Rose,Lotus Herbals,349
+142,55997,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Temptation Lipstick 24MA,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+143,55963,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Flirtatious Pink Lipstick with Sharpner 002,36,Not specified,Regular,Creme,1,Not specified,Not specified,"Pink, Pink",Colorbar,950
+144,56523,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Mauve Alert Lipstick 63,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,285
+145,55504,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Super Lustrous Pink Crystals Lip Gloss 59,24,12,Moisturising,Glossy,1,Not specified,6,Peach,Revlon,455
+146,55964,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Sensuous Red  Lipcolor with Sharpner 001 3.94 g,36,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Colorbar,950
+147,55990,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Rum Raisin Lipstick 41M,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Maroon,Colorbar,325
+148,55503,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Shine City Super Lustrous Lip Gloss 02,24,12,Regular,Glossy,1,Not specified,6,Pink,Revlon,455
+149,56524,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Violet Vapours Lipstick 12,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,Streetwear,235
+150,56114,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Feelin Rosey Lip Pot 011,24,12,Moisturising,Glossy,1,Not specified,6,Rose,Colorbar,495
+151,56113,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Flushed Plum Lip Pot 014,24,12,Moisturising,Natural,1,Not specified,6,Purple,Colorbar,495
+152,56548,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Streetwear Stay On Pink Lip Liner 01,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,250
+153,56541,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Brides Mate Lipcolor 05,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Maroon,Streetwear,250
+154,49139,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Deborah Euphoric Shine 01 Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Skin,Deborah,595
+155,49101,Women,Personal Care,Lips,Lip Plumper,Spring,2017.0,Casual,Deborah Truy Pink Volume Lip Plumper 01,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,575
+156,55991,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Bronx Lipstick 40 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+157,55965,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,ColorBar Velvet Matte Oh My Magenta 1 Lipstick 85V,36,Not specified,Regular,Matte,1,Not specified,Not specified,Magenta,Colorbar,325
+158,56525,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Ruby Rush Lipcolor 06,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Mauve,Streetwear,250
+159,55502,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Wild About Violet Super Lustrous Lip Gloss 57,24,12,Regular,Glossy,1,Not specified,6,Pink,Revlon,455
+160,55962,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Bare Dare Brown Lipcolor With Sharpener 003,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Brown,Colorbar,950
+161,55996,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Berry Fizz Lipstick 25B,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+162,55505,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Pink After Glow Super Lustrous Lip Gloss 12,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Revlon,455
+163,56522,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Crushed Berry Lipcolor 64,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,Streetwear,235
+164,55998,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Iced Tea Lipstick 19 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+165,56513,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Luscious Lips Caramel Crush Lipstick 16,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,385
+166,56547,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Streetwear Stay On Longwear Ruby Lip Liner 03,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Streetwear,250
+167,56540,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Candy Treat Lipcolor 17,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,250
+168,56112,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Yummy Plummy Lip Pot 015,24,12,Moisturising,Natural,1,Not specified,6,Purple,Colorbar,495
+169,56549,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Streetwear Stay On Longwear Garnet Lip Liner 04,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,250
+170,56115,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Forever Pink Lip Pot 010,24,12,Moisturising,Natural,1,Not specified,6,Pink,Colorbar,495
+171,49136,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah 24 Ore Lip Liner 221,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,375
+172,57728,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Chocolate Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Lotus Herbals,135
+173,56058,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Frenzy Lip Color 011,24,12,Long Lasting,Natural,1,Not specified,6,Maroon,Colorbar,600
+174,55424,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Moisture Pink Sunset Lipstick 53,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Pink,Revlon,710
+175,56093,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Mauve Fizz Lip Gloss 014,24,12,Moisturising,Glossy,1,Not specified,6,"Mauve, Pink",Colorbar,325
+176,55040,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Bridal Dream Lipstick 44,24,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Lakme,525
+177,57717,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lotus Herbals Seduction Lychee Sqaush Lip Gloss 40,24,12,Regular,Glossy,1,Not specified,6,Peach,Lotus Herbals,245
+178,56067,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Diva Red She Said Lipstick DL002,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Red,Colorbar,550
+179,56060,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Jazz Lip Color 008,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+180,55047,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Enrich Satins 152,24,Not specified,Regular,Natural,1,Not specified,Not specified,Red,Lakme,230
+181,57710,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lotus Herbals Seduction Choco Fudge Lip Contour Definer 56,24,12,Not specified,Not specified,1,Not specified,6,Brown,Lotus Herbals,245
+182,56094,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Wine Me Lip Gloss 013,24,12,Moisturising,Natural,1,Not specified,6,Purple,Colorbar,325
+183,55423,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon MoistureStay Plummy Lipcolor 07,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Purple,Revlon,750
+184,49081,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Deborah Atomic Red 09 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Deborah,560
+185,56069,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Miami Pink Lip Liner 014,36,Not specified,Not specified,Not specified,1,Not specified,Not specified,Pink,Colorbar,399
+186,57719,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Seduction Precious Peach Lip Gloss 38,24,12,Regular,Glossy,1,Not specified,6,Peach,Lotus Herbals,245
+187,56056,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Candid Lip Gloss 013,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+188,55049,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 137,24,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,225
+189,57721,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lotus Herbals Seduction Berry Blush Lip Gloss 36,24,12,Regular,Glossy,1,Not specified,6,Magenta,Lotus Herbals,275
+190,56051,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Florida Lip Color 021,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+191,55022,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Grape Blossom Lipstick 209,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,525
+192,57547,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Floralglam Rose Divine Lipstick 003,24,Not specified,Regular,Natural,1,Not specified,Not specified,Rose,Lotus Herbals,395
+193,55210,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Lip Love Sangria Seduction Lipstick B119A,Not specified,Not specified,SPF,Creme,1,Not specified,Not specified,Maroon,Lakme,600
+194,55446,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Plum Sexxxy Mystic Mauve Lipstick 51,36,Not specified,SPF,Natural,1,Not specified,Not specified,Mauve,Revlon,630
+195,56005,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Sultry Pink Lipstick 08P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Maroon,Colorbar,325
+196,55479,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Coffee Lip Liner,24,12,Not specified,Not specified,1,Not specified,6,Brown,Revlon,470
+197,57578,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Rose Wood Lipstick 641,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,295
+198,56002,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Tempting Chocolate Lipstick 13 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+199,55441,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Fuschia Colorburst Lipstick 030,36,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Revlon,630
+200,55217,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Nine to Five Sun Shimmer Lipstick,Not specified,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Red,Lakme,675
+201,55025,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Pink Romance Lipstick 206,24,Not specified,Regular,Matte,1,Not specified,Not specified,Pink,Lakme,500
+202,56034,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Soft Touch Mistique Lipstick 013,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,325
+203,57582,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Hazelnut Spice Lipstick 185,24,12,Regular,Natural,1,Not specified,6,"Red, Red",Lotus Herbals,349
+204,55221,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Absolute Forever Silk Poppy Red Lip Liner,Not specified,Not specified,Not specified,Not specified,1,Not specified,Not specified,Red,Lakme,500
+205,57576,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Burnt Siena Lipstick 660,24,12,Long Lasting,Natural,1,Not specified,6,Purple,Lotus Herbals,285
+206,55013,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme 3 in 1 Aqua Shine Wine Lip Color,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Purple,Lakme,550
+207,55477,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Mulberry Lip Liner,24,12,Not specified,Not specified,1,Not specified,6,Brown,Revlon,470
+208,55448,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Latino Kiss Lipcolor 19,24,12,SPF,Natural,1,Not specified,6,Red,Revlon,630
+209,57549,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floral Glam Apple Berry Lipstick 001,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Red,Lotus Herbals,395
+210,55470,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lusterous Chocolate Velvet Lipstick 302,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,"Brown, Maroon",Revlon,699
+211,57571,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Golden Dusk Lipstick 685,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,285
+212,56033,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Soft Touch Rebel Lipstick 014,36,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Colorbar,475
+213,55219,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Absolute Forever Silk Merlot Lip Liner 04,Not specified,Not specified,Not specified,Not specified,1,Not specified,Not specified,Maroon,Lakme,500
+214,55048,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 138,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,230
+215,56050,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Innocently Brown Full Finish Longwear Lipstick 01,36,Not specified,Long Lasting,Creme,1,Not specified,Not specified,Brown,Colorbar,825
+216,57720,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Candy Floss Lip Gloss 37,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Lotus Herbals,275
+217,57718,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lotus Herbals Seduction Golden Mango Lip Gloss 39,24,12,Regular,Glossy,1,Not specified,6,Gold,Lotus Herbals,245
+218,56068,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Diva For Keeps Lipstick 001,36,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Colorbar,550
+219,49080,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Deborah Atomic Red 02 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,560
+220,57727,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Seduction Cranberry Punch Lip Gloss 30,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Lotus Herbals,245
+221,56057,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Snob Lip Color 12,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+222,54997,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Absolute Liplast Night Silk Lip Gloss,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Brown,Lakme,575
+223,55046,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 255,24,Not specified,Regular,Creme,1,Not specified,Not specified,Purple,Lakme,230
+224,57711,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lotus Herbals Seduction Mocha Blast Lip Contour Definer 55,24,12,Not specified,Not specified,1,Not specified,6,Brown,Lotus Herbals,245
+225,56095,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Timid Apricot Lip Gloss 12,24,12,Moisturising,Glossy,1,Not specified,6,Nude,Colorbar,325
+226,56061,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Chic Lip Color 006,24,12,Long Lasting,Natural,1,Not specified,6,Purple,Colorbar,600
+227,56059,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Cosmo Lip Color 10,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+228,57729,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Cherry Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Lotus Herbals,165
+229,56066,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Diva Dress To Impress Lipstick 003,36,Not specified,Long Lasting,Creme,1,Not specified,Not specified,Red,Colorbar,550
+230,56092,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Splendor Star Lip Gloss 015,36,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Purple,Colorbar,325
+231,55425,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Moisture Stay Nutty Lipstick 32,24,12,Moisturising,Natural,1,Not specified,6,Pink,Revlon,750
+232,55041,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Red Hot Lipstick 43,24,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Lakme,525
+233,57716,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Seduction Strawberry Punch Lip Gloss 41,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Lotus Herbals,245
+234,57584,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Cappuccino Lipstick 183,24,12,Long Lasting,Natural,1,Not specified,6,Coffee Brown,Lotus Herbals,349
+235,55485,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Burgundy Lip Liner Pencil,36,Not specified,Not specified,Not specified,1,Not specified,Not specified,Black,Revlon,265
+236,56032,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Soft Touch Fleuron Lipstick 015,24,12,Moisturising,Natural,1,Not specified,6,Brown,Colorbar,325
+237,55471,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Cha Cha Cherry Super Lustrous Lipstick 626,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Red,Revlon,550
+238,57570,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Lipstick 690,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Purple,Lotus Herbals,275
+239,55015,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme 3 in 1 Aqua Shine Truffle Lip Color,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Purple,Lakme,550
+240,55218,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Absolute Forever Silk Expresso Lip Liner 06,Not specified,Not specified,Not specified,Not specified,1,Not specified,Not specified,Black,Lakme,475
+241,55012,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme 3 in 1 Aqua Shine Plum Lip Color,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Purple,Lakme,600
+242,55220,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Absolute Forever Silk Chestnut Lip Liner 03,Not specified,Not specified,Not specified,Not specified,1,Not specified,Not specified,Brown,Lakme,500
+243,57577,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Moisturising Hot Plum Lipstick 643,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Lotus Herbals,285
+244,55476,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Nudes Lip Liner,24,12,Not specified,Not specified,1,Not specified,6,Pink,Revlon,470
+245,56035,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Ruby Woo Lipstick 012,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,475
+246,55482,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Toffee Lip Liner 19,36,Not specified,Not specified,Not specified,1,Not specified,Not specified,Brown,Revlon,265
+247,57583,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Orchid Star Lipstick 184,24,12,Regular,Natural,1,Not specified,6,Maroon,Lotus Herbals,349
+248,55449,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Plum Sexxxy Honey Kiss Lipstick 08,24,12,SPF,Natural,1,Not specified,6,Maroon,Revlon,630
+249,57548,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floralglam Mocha Touch Lipstick 002,24,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,395
+250,55440,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Hazelnut Colorburst Lipstick 050,24,12,Regular,Creme,1,Not specified,6,Brown,Revlon,630
+251,55024,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Peach Carnation Lipstick 207,24,Not specified,Regular,Matte,1,Not specified,Not specified,Peach,Lakme,525
+252,55216,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Nine to Five Day Perfect Twilight Flame Lip Color,Not specified,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Purple,Lakme,675
+253,56003,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Maroon Velvet Matte Pure Innocence Lipstick 12 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+254,56004,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Peach Tango Lipstick 09P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,"Pink, Beige",Colorbar,325
+255,55211,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Lip Love Haze Lipstick,Not specified,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,725
+256,55023,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Lip Lush Lipstick 208,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,500
+257,55447,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Muzzle Duzzle Lipcolor 52,36,Not specified,SPF,Natural,1,Not specified,Not specified,Brown,Revlon,630
+258,55478,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Maroon Lip Liner,24,12,Not specified,Not specified,1,Not specified,6,Maroon,Revlon,550
+259,57579,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Moisturising Carnation Lipstick 640,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Red,Lotus Herbals,275
+260,55067,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Enrich Metallics Lipstick 125,24,Not specified,SPF,Creme,1,Not specified,Not specified,Pink,Lakme,225
+261,57730,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Lotus Herbals Fresh Mint Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Green,Lotus Herbals,135
+262,56040,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Get Ready Lipstick 11,36,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Red,Colorbar,595
+263,55058,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 529,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,230
+264,56047,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Full Finish Longwear En Vouge Lipstick 04,24,12,Long Lasting,Matte,1,Not specified,6,Purple,Colorbar,725
+265,55060,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 527,24,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,230
+266,57737,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Strawberry Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Lotus Herbals,155
+267,49090,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah 24 Ore Lip Liner 203,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,375
+268,56078,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Bewitch Lip Gloss 018,24,12,Long Lasting,Glitter,1,Not specified,6,Pink,Colorbar,325
+269,57708,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lotus Herbals Seduction Red Fire Lip Contour Definer 52,24,12,Not specified,Not specified,1,Not specified,6,Red,Lotus Herbals,245
+270,55290,Women,Personal Care,Lips,Lip Gloss,Summer,2019.0,Casual,Lakme Absolute Plump & Shine Plumshine Lip Gloss 3 ml,Not specified,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Mauve,Lakme,450
+271,56071,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Black Berry Lip Pencil 012,24,12,Not specified,Not specified,1,Not specified,6,Burgundy,Colorbar,399
+272,56085,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Pearliser Star Shine Lip Gloss 08,24,12,Regular,Glitter,1,Not specified,6,White,Colorbar,325
+273,55432,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Soft Rose Colorburst Lipstick 040,36,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Revlon,390
+274,55056,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 130,24,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,230
+275,55069,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Lip Gloss 15,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Lakme,200
+276,55051,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 135,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,225
+277,56082,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Sensation Lip Gloss 14,24,12,Regular,Glitter,1,Not specified,6,Red,Colorbar,325
+278,56076,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Moody Maroon Lip Liner 003,36,Not specified,Not specified,Not specified,1,Not specified,Not specified,Maroon,Colorbar,399
+279,56049,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Full Finish Longwear Wicked Brown Lipstick 02,24,12,Long Lasting,Matte,1,Not specified,6,Brown,Colorbar,725
+280,55208,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Lip Love Aphrodite Blush Lipstick,Not specified,Not specified,Regular,Creme,1,Not specified,Not specified,Brown,Lakme,725
+281,55005,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Sheer Satin Lip Gloss 61,24,Not specified,Regular,Glossy,1,Not specified,Not specified,White,Lakme,325
+282,57560,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Peach Creme Lipstick 691,24,12,Long Lasting,Natural,1,Not specified,6,Purple,Lotus Herbals,275
+283,55461,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Plumalicious Super Lustrous Lipstick 314,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Purple,Revlon,599
+284,56022,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Flamingo Soft Touch Lipstick 033,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,475
+285,55495,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorBurst Orchid Lip Gloss 12,36,Not specified,Regular,Glossy,1,Not specified,Not specified,Mauve,Revlon,500
+286,57594,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pink Mink Lipstick 143,24,Not specified,Regular,Natural,1,Not specified,Not specified,Pink,Lotus Herbals,349
+287,57558,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals SPF-10 Rose Mary Lipstick 411,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Rose,Lotus Herbals,375
+288,55459,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Raspberry Super Lustrous Lipstick 485,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Pink,Revlon,550
+289,57593,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Coral Cove Lipstick 145,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Lotus Herbals,349
+290,55492,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Color Brust Fire Lip Gloss 18,24,12,Moisturising,Glossy,1,Not specified,6,Red,Revlon,525
+291,56025,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Drama Lipstick 027,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,475
+292,55466,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Kiss Me Coral Super Lustrous Lipstick 750,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Red,Revlon,599
+293,57567,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Moisturising   Lilac Beauty Lipstick 644,24,Not specified,Moisturising,Natural,1,Not specified,Not specified,Pink,Lotus Herbals,285
+294,55002,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Absolute Liplast Day Passion Lip Gloss,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Purple,Lakme,575
+295,56013,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Rose Quartz Lipstick 043,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,450
+296,55206,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Lip Love Chocolate Caress Lipstick,Not specified,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,725
+297,55034,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Toasted Brown Lipstick 59,24,Not specified,Regular,Matte,1,Not specified,Not specified,Brown,Lakme,525
+298,55450,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Plum Sexxxy Flirty Fuchsia Lipstick 54,36,Not specified,SPF,Natural,1,Not specified,Not specified,"Pink, Magenta",Revlon,630
+299,57569,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Red Rose Lipstick 612,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Red,Lotus Herbals,275
+300,55468,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lusterous Coffee Break Lipstick 303,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,"Maroon, Rust",Revlon,550
+301,55457,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Rose Dew Super Lustrous Lipstick 407,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Pink,Revlon,550
+302,55033,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Cocoa Pink Lipstick 30,24,Not specified,Regular,Matte,1,Not specified,Not specified,Pink,Lakme,525
+303,55201,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Lakme Lip Love Siren Lip Conditioner,Not specified,Not specified,Not specified,Matte,Not specified,Dry Lips,Not specified,Pink,Lakme,225
+304,57556,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floralstay Pink Mink Lip Color 416,24,Not specified,Regular,Natural,1,Not specified,Not specified,Pink,Lotus Herbals,375
+305,56014,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Amethyst Lipstick 042,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Lavender,Colorbar,325
+306,56077,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Hot Chocolate Lip Liner /Crayon 002,24,12,Not specified,Not specified,1,Not specified,6,Brown,Colorbar,399
+307,57707,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lotus Herbals Seduction Pink Berry Lip Liner 53,24,12,Not specified,Not specified,1,Not specified,6,Pink,Lotus Herbals,245
+308,55050,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 136,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,225
+309,56083,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Pink Kiss Lip Gloss 12,24,12,Regular,Glitter,1,Not specified,6,Pink,Colorbar,325
+310,55434,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Ruby Colorburst Lipstick 85,36,Not specified,Regular,Creme,1,Not specified,Not specified,Red,Revlon,630
+311,56048,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Rare Truffle Lipstick 03,36,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Maroon,Colorbar,725
+312,55433,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Women Siena Colorburst Lipstick 055,24,12,Regular,Creme,1,Not specified,6,Brown,Revlon,610
+313,56084,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Bare True Lip Gloss 11,24,12,Regular,Glitter,1,Not specified,6,Pink,Colorbar,325
+314,55057,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Enrich Satins Lipstick 129,24,Not specified,SPF,Creme,1,Not specified,Not specified,Pink,Lakme,240
+315,55291,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Absolute Candyshine Plump & Shine Pink Lip Gloss 3 ml,Not specified,Not specified,Regular,Glossy,1,Not specified,Not specified,Pink,Lakme,475
+316,56070,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Colorbar Fuchsia Fever Lip Liner/Crayon 013,24,12,Not specified,Not specified,1,Not specified,6,Pink,Colorbar,325
+317,55068,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme Vanilla Lip Gloss 15,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Brown,Lakme,200
+318,55061,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 423,24,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,230
+319,57736,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Orange Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Orange,Lotus Herbals,125
+320,56046,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Full Finish Longwear Tempt Me Lipstick 05,24,12,Long Lasting,Matte,1,Not specified,6,Red,Colorbar,725
+321,57709,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,,Lotus Herbals Poppy Plum Lip Liner 59,24,12,Not specified,Not specified,1,Not specified,6,Pink,Lotus Herbals,245
+322,56079,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Mocha Late Lip Gloss 017,24,12,Regular,Glitter,1,Not specified,6,Brown,Colorbar,325
+323,49091,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah 24 Ore Lip Liner 215,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,375
+324,56041,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Coco Liscious Lipstick 10,36,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Brown,Colorbar,595
+325,55066,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Enrich Mattes Lipstick 420,24,Not specified,SPF,Creme,1,Not specified,Not specified,Brown,Lakme,240
+326,57731,Women,Personal Care,Lips,Lip Care,Spring,2017.0,,Lotus Herbals Velvety Rose Lip Balm,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Rose,Lotus Herbals,135
+327,55059,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 528,24,Not specified,SPF,Creme,1,Not specified,Not specified,Maroon,Lakme,230
+328,57568,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Sheer Fuschia Lipstick 642,24,Not specified,Regular,Natural,1,Not specified,Not specified,Red,Lotus Herbals,275
+329,55469,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lusterous Frost Bronze Lipstick 310,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,"Bronze, Maroon",Revlon,550
+330,56015,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Amber Lipstick 041,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,475
+331,55456,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Rosewine Super Lustrous Lipstick 225,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Red,Revlon,550
+332,55200,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Lakme Lip Love Charmer Lip Conditioner,Not specified,Not specified,Not specified,Matte,Not specified,Dry Lips,Not specified,Pink,Lakme,225
+333,57557,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floralstay Pristine Maroon Lip Color 412,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,"Maroon, Brown",Lotus Herbals,375
+334,55032,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Classic Rose Lipstick 47,24,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Lakme,525
+335,55035,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Nougat Lipstick 62,24,Not specified,Regular,Matte,1,Not specified,Not specified,Brown,Lakme,525
+336,57550,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Floralstay Lipstick 434,24,Not specified,SPF,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,375
+337,55451,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Don't Stop Apricot Lipcolor 24,36,Not specified,SPF,Natural,1,Not specified,Not specified,Peach,Revlon,630
+338,56012,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Garnet Lipstick 044,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Red,Colorbar,325
+339,57559,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Floralstay Red Rover Lip Color 410,24,Not specified,SPF,Natural,1,Not specified,Not specified,Red,Lotus Herbals,375
+340,55458,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Rose Velvet Super Lustrous Lipstick 306,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Pink,Revlon,550
+341,55467,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Coffee Sip Super Lustrous Lipstick 212,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Brown,Revlon,550
+342,55003,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Absolute Liplast Day Love Lip Gloss,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Pink,Lakme,575
+343,57566,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Moisturising Maroon Delight Lipstick 613,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Maroon,Lotus Herbals,295
+344,57592,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Lilac Delight Lipstick 147,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Lotus Herbals,349
+345,56024,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Spirit Lipstick 028,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,475
+346,55493,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorBurst Bordeaux Lip Gloss 16,24,12,Moisturising,Glossy,1,Not specified,6,Maroon,Revlon,525
+347,55209,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Lip Love Strawberries & Cream Lipstick B115B,Not specified,Not specified,SPF,Creme,1,Not specified,Not specified,Red,Lakme,725
+348,55494,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorBurst Rose Pearl Lip Gloss 14,24,12,Moisturising,Glossy,1,Not specified,6,"Pink, Beige",Revlon,525
+349,56023,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Soft Touch Bingo Lipstick 029,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,325
+350,57595,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Blossom Lipstick 142,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Lotus Herbals,349
+351,57561,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Star Glow Lipstick 667,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Rose,Lotus Herbals,295
+352,55004,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme 6 in 1 Travel Kit Day & Night Palette Lip Sync,Not specified,Not specified,Regular,Glossy,1,Not specified,Not specified,Multi,Lakme,875
+353,55460,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Super Lustrous Raspberry Lipstick 324,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Maroon,Revlon,699
+354,55512,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Berry Wild Super Lustrous Lip Gloss 52,24,12,Moisturising,Glossy,1,Not specified,6,Purple,Revlon,455
+355,56535,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Eclairs Lipcolor 11,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,250
+356,55975,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Magenta Shy Cherry Lipstick 63P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Maroon,Colorbar,325
+357,55981,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Naked Pink Lipstick 57 P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Red,Colorbar,325
+358,56532,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Go Grape Lipcolor 03,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,Streetwear,235
+359,55986,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,ColorBar Velvet Matte Addictive Magenta Lipstick 46 P,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Magenta,Colorbar,325
+360,55972,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Velvet Matte Creme Cup 1 Lipstick 78V,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,325
+361,49143,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Deborah Hazel Euphoric Shine 13 Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,595
+362,55988,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Plumberry Lipstick 44MA,36,Not specified,Long Lasting,Matte,1,Not specified,Not specified,Burgundy,Colorbar,325
+363,49144,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Deborah Euphoric Shine 14 Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,595
+364,49117,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Red 24 Power 05 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Deborah,595
+365,56550,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Streetwear Stay On Longwear Amethyst Lip Liner 02,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,Streetwear,250
+366,56559,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Pink Rose Lip Gloss 51,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+367,49121,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Light Creator Shine & Volume Lipstick 4,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+368,56102,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Ripe Apple Lip Gloss 01,24,12,Moisturising,Glossy,1,Not specified,6,Maroon,Colorbar,325
+369,56566,Women,Personal Care,Lips,Lip Care,Spring,2017.0,Casual,Streetwear Satin Smooth Pink Princess Lip Balm 01,24,12,Not specified,Glossy,Not specified,Cracked Lips,6,Pink,Streetwear,190
+370,49119,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Chocolate Light Creator Shine Volume 1 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,595
+371,56561,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Nothing Lip Gloss 13,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,235
+372,56105,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Metal Sedustress Lip Gloss 006,24,12,Moisturising,Glitter,1,Not specified,6,Pink,Colorbar,325
+373,55989,Women,Personal Care,Lips,Lipstick,Summer,2019.0,Casual,Colorbar Velvet Matte Brick-O-La Lipstick 42 M,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Maroon,Colorbar,325
+374,49142,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Deborah Peach Coloured Euphoric Shine 12 Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Peach,Deborah,595
+375,56533,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Fuschia Pink Lipcolor 27,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,250
+376,55973,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Velvet Matte High Tea 1 Lipstick 77V,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Colorbar,325
+377,55987,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Just Maroon Lipstick 45 M,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Maroon,Colorbar,325
+378,56534,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Fruity Fawn Lipcolor 25,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,235
+379,55980,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Dark Brown Matte Bare Lipstick 58 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+380,55974,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Velvet Matte Special Mauve Lipstick 64M,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+381,56560,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Streetwear Nude Shimmer Lip Gloss 53,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Peach,Streetwear,235
+382,56104,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Metal Astral Lip Gloss 007,24,12,Moisturising,Glitter,1,Not specified,6,Red,Colorbar,325
+383,49118,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Pink 24 Power 07 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+384,49120,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Brown Light Creator Shine Volume 3 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+385,56558,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Rose Shimmer Lip Gloss 52,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+386,56103,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Mettalics Galaxy Lip Gloss 008,24,12,Moisturising,Glitter,1,Not specified,6,White,Colorbar,325
+387,49116,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah 24 Ore Power 02 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,595
+388,56551,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Mineral Brown Sugar Lip Gloss,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,350
+389,56556,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Streetwear Smooch Lip Gloss 42,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+390,56110,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,ColorBar Cherry Pop Lip Pot 017,24,12,Moisturising,Natural,1,Not specified,6,Red,Colorbar,495
+391,49133,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Deborah Fuchsia 24 Power 08 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Deborah,595
+392,56117,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Night Rose Lip Pot 007,24,12,Moisturising,Natural,1,Not specified,6,Purple,Colorbar,495
+393,49134,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah Extra Lip Liner 07,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Deborah,400
+394,49102,Women,Personal Care,Lips,Lip Plumper,Spring,2017.0,Casual,Deborah Burgundy Volume Lip Plumper 03,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Burgundy,Deborah,575
+395,56119,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Toffee Tango Lip Pot 005,24,12,Moisturising,Natural,1,Not specified,6,Brown,Colorbar,495
+396,56529,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Mocha Brown Lipcolor 22,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,250
+397,49151,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah Extra Lip Liner 04,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,400
+398,56516,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Streetwear Luscious Lips Pink Wood Lipstick 05,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,385
+399,55969,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Brown Over The Top 1 Lipstick 81V,36,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Colorbar,325
+400,55509,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Coffee Gleam Super Lustrous Lip Gloss 06,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Revlon,455
+401,57605,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Burgundy Lipstick 111,24,Not specified,Regular,Natural,1,Not specified,Not specified,Burgundy,Lotus Herbals,349
+402,56511,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Lusicious Lips Rustic Copper Lipcolor 18,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Copper,Streetwear,385
+403,55967,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte All Fired Lipstick 83V,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Red,Colorbar,325
+404,56518,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Streetwear Luscious Lips Peach Glory Lipstick 08,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Peach,Streetwear,415
+405,55993,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Summer Rain Lipstick 34 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+406,55958,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Take Me As I Am Seductive Lipstick with Sharpner 007,24,12,Smudge Proof,Creme,1,Not specified,6,Brown,Colorbar,950
+407,55500,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Crystal Lilac Colorburst Lip Gloss 002,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Revlon,525
+408,56527,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Plum Brown Lipstick 39,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,235
+409,55994,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Mulberry Lipstick 27M,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+410,55960,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Sizzling Berry Lipcolor With Sharpener 005,36,Not specified,Regular,Creme,1,Not specified,Not specified,Purple,Colorbar,699
+411,56520,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Brazen Brown Lipcolor 66,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Streetwear,235
+412,55507,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Glossy Rose Lustrous Lip Gloss 16,24,12,Moisturising,Glossy,1,Not specified,6,Rose,Revlon,455
+413,49104,Women,Personal Care,Lips,Lip Plumper,Spring,2017.0,Casual,Deborah Natural Beige Volume Lip Plumper 6,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Beige,Deborah,575
+414,56118,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Coral Crush Lip Pot 006,36,Not specified,Regular,Natural,1,Not specified,Not specified,Pink,Colorbar,495
+415,56120,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Warm Me Up Lip Pot 001,24,12,Moisturising,Natural,1,Not specified,6,Brown,Colorbar,495
+416,49103,Women,Personal Care,Lips,Lip Plumper,Spring,2017.0,Casual,Deborah Chocolate Volume Lip Plumper 05,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Copper,Deborah,575
+417,56116,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Pink Velvet Lip Pot 600,24,12,Moisturising,Natural,1,Not specified,6,Pink,Colorbar,495
+418,56111,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Wine Not Lip Pot 016,24,12,Moisturising,Natural,1,Not specified,6,Maroon,Colorbar,495
+419,49132,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah Extra Lip Liner 06,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Peach,Deborah,400
+420,55961,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Smacking Cherry Lipcolor With Sharpener 004,36,Not specified,Regular,Creme,1,Not specified,Not specified,Pink,Colorbar,699
+421,55995,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Posh Plum Lipstick 26B,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+422,55506,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Pearl Plum Lustrous Lip Gloss 18,24,12,Moisturising,Glossy,1,Not specified,6,Purple,Revlon,455
+423,56521,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Pink Rush Lipcolor 65,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,235
+424,55992,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Verve Lipstick 15 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+425,56519,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Streetwear Luscious Lips Earth Rose Lipstick 03,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Rose,Streetwear,415
+426,55966,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Velvet Matte Fushia Fix 1 Lipstick 84V,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Pink,Colorbar,325
+427,56526,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Raspberry Lipcolor 07,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,250
+428,55959,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Mysterious Nude Lipcolor With Sharpener 006,36,Not specified,Regular,Creme,1,Not specified,Not specified,Nude,Colorbar,900
+429,55501,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Wrap Yourself In Rubies Super Lustrous Lip Gloss 53,24,12,Moisturising,Glossy,1,Not specified,6,Pink,Revlon,455
+430,55508,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Coffee Sparkles Super Lustrous Lip Gloss 63,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Revlon,455
+431,57604,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Red Rover 112 Lip Colour,24,Not specified,Moisturising,Natural,1,Not specified,Not specified,Red,Lotus Herbals,349
+432,49150,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Deborah Extra Lip Liner 03,48,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Deborah,400
+433,55957,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Take Me As I Am Mischievous Wine Lipstick 008,24,12,Moisturising,Creme,1,Not specified,6,Red,Colorbar,900
+434,56528,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Satin Smooth Pinkaboo Lipstick 35,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,220
+435,55968,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Demure 1 Lipstick 82V,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Colorbar,325
+436,57603,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Maroon Lipstick 113,24,Not specified,Regular,Natural,1,Not specified,Not specified,Maroon,Lotus Herbals,349
+437,56517,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Streetwear Lusicious Lips Pink Wink Lipcolor 04,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Pink,Streetwear,415
+438,56001,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Honey Dew Lipstick 14 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+439,55442,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Crimson Colorburst Lipstick 095,36,Not specified,Regular,Creme,1,Not specified,Not specified,Red,Revlon,630
+440,55026,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Winter Lily Lipstick 205,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,500
+441,57543,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Floralglam Nude Glow 019,24,Not specified,Regular,Natural,1,Not specified,Not specified,Nude,Lotus Herbals,395
+442,55214,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Nine to Five Day Perfect Crimson Affair Lip Color,Not specified,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Magenta,Lakme,675
+443,55489,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorBurst Sienna Sparkle Lip Gloss 28,24,12,Moisturising,Glossy,1,Not specified,6,"Copper, Rust",Revlon,500
+444,57588,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Cinnamon Lipstick 165,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,349
+445,57544,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Floralglam Lipstick 020,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Orange,Lotus Herbals,395
+446,55213,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Nine to Five Day Perfect Strawberry Margarita Lip Color,Not specified,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Purple,Lakme,675
+447,55021,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Desert Dune Lipstick 66,24,Not specified,Regular,Matte,1,Not specified,Not specified,Brown,Lakme,525
+448,55445,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Passion It Lipcolor 16,36,Not specified,SPF,Natural,1,Not specified,Not specified,Brown,Revlon,630
+449,56006,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Passion Dark Brown Lipstick 05M,36,Not specified,Regular,Matte,1,Not specified,Not specified,Maroon,Colorbar,325
+450,56039,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Hot-e Lipstick 001,24,12,Regular,Natural,1,Not specified,6,Brown,Colorbar,475
+451,55473,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Baked Brown Super Lustrous Lipstick 323,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Brown,Revlon,550
+452,57572,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Lilac Breeze Lipstick 681,24,12,Moisturising,Natural,1,Not specified,6,"Coffee Brown, Brown",Lotus Herbals,285
+453,57586,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Sand Storm Lipstick 181,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Lotus Herbals,349
+454,55487,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Color Burst Aubergine Lip Gloss 34,24,12,Moisturising,Glossy,1,Not specified,6,Purple,Revlon,500
+455,56030,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Seduction Lipstick 021,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,475
+456,55028,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Brilliant Kiss Lipstick 203,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,525
+457,56037,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Matina Lipstick 007,24,12,Regular,Natural,1,Not specified,6,Maroon,Colorbar,475
+458,55480,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Chocolates Lip Liner,24,12,Not specified,Not specified,1,Not specified,6,Brown,Revlon,550
+459,57581,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Crimson Red Lipstick 610,24,12,Moisturising,Natural,1,Not specified,6,Red,Lotus Herbals,295
+460,55010,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme Sheer Satin Lip Gloss 21,24,Not specified,Moisturising,Glossy,1,Not specified,Not specified,Pink,Lakme,325
+461,55222,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Perfect Defination Walnut Lipliner 02,Not specified,Not specified,Not specified,Not specified,1,Not specified,Not specified,"Brown, Beige, Beige",Lakme,260
+462,57575,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Copper Gold Lipstick 661,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Gold,Lotus Herbals,275
+463,55474,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Vixens Lip Liner,36,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Purple,Revlon,550
+464,56008,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Luv Me Lipstick 03M,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Maroon,Colorbar,325
+465,54995,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Night Glam Lip Last,24,Not specified,Moisturising,Natural,1,Not specified,Not specified,Purple,Lakme,575
+466,56063,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Fun Lip Color 003,24,12,Long Lasting,Natural,1,Not specified,6,Red,Colorbar,600
+467,55044,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Berrylicious Lipstick 27,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,500
+468,57713,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Fruit Splash Lip Gloss 48,24,12,Regular,Glossy,1,Not specified,6,Purple,Lotus Herbals,245
+469,55420,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon MoistureStay Stawberry Lipcolor 52,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Pink,Revlon,750
+470,56097,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Berry Shine Lip Gloss 08,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Colorbar,325
+471,55418,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Moisture Stay Violet Lipstick 13,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Purple,Revlon,710
+472,56090,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Crystaliser Lip Gloss 02,36,Not specified,Regular,Glitter,1,Not specified,Not specified,Pink,Colorbar,325
+473,55427,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Moisture Stay Mica Lipstick 15,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Pink,Revlon,710
+474,55043,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Absolute Matte Garnet Spray Lipstick 41,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,525
+475,57714,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Seduction Winter Berry Lip Gloss 43,24,12,Regular,Glossy,1,Not specified,6,Pink,Lotus Herbals,245
+476,56064,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Fashion Fushia Lip Color 002,24,12,Long Lasting,Natural,1,Not specified,6,Pink,Colorbar,600
+477,56099,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Tiramisu Lip Gloss 05,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Colorbar,325
+478,56052,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Lava Lip Color 020,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+479,55429,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon MoistureStay Dusk Lipcolor 11,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Purple,Revlon,710
+480,56055,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Sassy Lip Color 017,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+481,57725,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Seduction Ice Cube Lip Gloss 32,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,White,Lotus Herbals,275
+482,55223,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Perfect Definition Go Grape Lip Liner 23,36,6,Not specified,Not specified,1,Not specified,24,Maroon,Lakme,250
+483,57574,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Pure Colors Moisturising Sassy Mocha Lipstick 665,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Maroon,Lotus Herbals,275
+484,55475,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Colorstay Scarlet Pink Lip Liner,24,12,Not specified,Not specified,1,Not specified,6,Pink,Revlon,575
+485,56036,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,ColorBar Soft Touch Clypso Lipstick 008,36,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Colorbar,325
+486,57580,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Rose Madder Lipstick 611,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,295
+487,56009,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Diva Lipstick 02 M,36,Not specified,Regular,Matte,1,Not specified,Not specified,Red,Colorbar,325
+488,57587,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Natural Haze Lipstick 180,24,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,349
+489,56031,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch Rougemarie Lipstick 016,24,12,Moisturising,Natural,1,Not specified,6,Brown,Colorbar,450
+490,55486,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Revlon Blackberry Lip Liner 11,36,Not specified,Not specified,Not specified,1,Not specified,Not specified,Brown,Revlon,265
+491,55472,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Certainly Red Super Lustrous Lipstick 740,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Red,Revlon,550
+492,55016,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Lakme 3 in 1 Wildberry Aqua Shine Lip Color,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Purple,Lakme,550
+493,55224,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lakme Cocoa Fudge Perfect Definition Lip Liner 11,24,Not specified,Not specified,Not specified,1,Not specified,Not specified,Maroon,Lakme,260
+494,57573,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Pure Colours Lipstick 680,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Brown,Lotus Herbals,285
+495,55029,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Elegant Bloom Lipstick 202,24,Not specified,Regular,Matte,1,Not specified,Not specified,Purple,Lakme,525
+496,56007,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Wine Blush Lipstick 04 M,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Purple,Colorbar,325
+497,55020,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme 3 in 1 Aqua Shine Fig Lip Color,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Brown,Lakme,550
+498,57545,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lotus Herbals Floralglam Lavender Love Lipstick 009,24,Not specified,Regular,Natural,1,Not specified,Not specified,Lavender,Lotus Herbals,395
+499,55212,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Nine to Five Day Perfect Purple Haze Lipstick,Not specified,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Purple,Lakme,675
+500,55444,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Plum Sexxxy Sassy Lipstick 09,36,Not specified,SPF,Natural,1,Not specified,Not specified,Purple,Revlon,630
+501,56038,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Soft Touch E-Rose Lipstick 004,24,12,Moisturising,Matte,1,Not specified,6,Red,Colorbar,325
+502,55443,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Color Burst Chocolate Lipstick 60,24,12,Regular,Creme,1,Not specified,6,Brown,Revlon,610
+503,55215,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Nine to Five Day Apricot Nectar Lip Color,Not specified,Not specified,Long Lasting,Natural,1,Not specified,Not specified,Red,Lakme,675
+504,55027,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Pink Princess Lipstick 204,24,Not specified,Regular,Matte,1,Not specified,Not specified,Pink,Lakme,500
+505,56000,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Colorbar Velvet Matte Misty Cocoa Lipstick 15 BR,36,Not specified,Moisturising,Matte,1,Not specified,Not specified,Brown,Colorbar,325
+506,55018,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lakme 3 in 1 Orchid  Aqua Shine Lip Color,24,Not specified,Regular,Glossy,1,Not specified,Not specified,Purple,Lakme,550
+507,55488,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon Bronze Shimmer Colorburst Lip Gloss 30,24,12,Moisturising,Glossy,1,Not specified,6,Bronze,Revlon,525
+508,57589,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lotus Herbals Moistpetals Cocoa Beans Lipstick 163,24,Not specified,Regular,Natural,1,Not specified,Not specified,Brown,Lotus Herbals,349
+509,55428,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon MoistureStay Garnet Lipcolor 46,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Purple,Revlon,750
+510,49083,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Deborah Atomic Red 12 Lipstick,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Red,Deborah,560
+511,57724,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Berry Smoothie Lip Gloss 33,24,12,Regular,Glossy,1,Not specified,6,Pink,Lotus Herbals,245
+512,56054,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Siren Lip Color 018,24,12,Long Lasting,Natural,1,Not specified,6,Red,Colorbar,600
+513,56098,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Arabian Nights Lip Gloss 06,24,12,Moisturising,Glossy,1,Not specified,6,Orange,Colorbar,325
+514,56053,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Rosette Lip Color 019,24,12,Long Lasting,Natural,1,Not specified,6,Brown,Colorbar,600
+515,55410,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Revlon ColorStay Overtime Eternally Tan Lip Gloss 340,24,12,Regular,Glossy,1,Not specified,6,Brown,Revlon,960
+516,55419,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Toffee Moisture Stay Lipstick 06,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Pink,Revlon,710
+517,56065,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Sauve Lip Color 001,24,12,Long Lasting,Natural,1,Not specified,6,Maroon,Colorbar,600
+518,55426,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Mulberry Moisture Stay Lipstick 48,36,Not specified,Moisturising,Creme,1,Not specified,Not specified,Pink,Revlon,750
+519,56091,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Shine Fancy That Lip Gloss 01,36,Not specified,Regular,Glitter,1,Not specified,Not specified,Purple,Colorbar,325
+520,55042,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Lakme Absolute Matte Satin Ruby Lipstick 42,24,Not specified,Regular,Matte,1,Not specified,Not specified,Pink,Lakme,525
+521,57715,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,,Lotus Herbals Seduction Sappy Watermelon Lip Gloss 42,24,12,Regular,Natural,1,Not specified,6,Red,Lotus Herbals,245
+522,55045,Women,Personal Care,Lips,Lipstick,Spring,2017.0,,Lakme Enrich Satins Lipstick 461,24,Not specified,SPF,Creme,1,Not specified,Not specified,Purple,Lakme,230
+523,57712,Women,Personal Care,Lips,Lip Liner,Spring,2017.0,Casual,Lotus Herbals Seduction Ruby Desire Lip Contour Definer 51,24,12,Not specified,Not specified,1,Not specified,6,Maroon,Lotus Herbals,245
+524,56096,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Star Choco Chip Lip Gloss 11,24,12,Moisturising,Glossy,1,Not specified,6,Brown,Colorbar,325
+525,55421,Women,Personal Care,Lips,Lipstick,Spring,2017.0,Casual,Revlon Moisture Stay Spice Lipstick 31,36,Not specified,Moisturising,Natural,1,Not specified,Not specified,Brown,Revlon,710
+526,56062,Women,Personal Care,Lips,Lip Gloss,Spring,2017.0,Casual,Colorbar Extra Durable Gossip Lip Color 005,24,12,Long Lasting,Natural,1,Not specified,6,Pink,Colorbar,600
