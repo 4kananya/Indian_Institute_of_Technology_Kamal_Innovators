@@ -26,7 +26,6 @@ neglect of eco-friendly shopping practices, and inefficient inventory management
 ## Future Work
 * **Capability Expansion:** Plans to integrate additional data sources and enhance algorithms with cutting-edge AI technologies.
 * **Collaboration:** Seeks to forge strategic partnerships with influencers and sustainability organizations to enhance trend insights and promote eco-friendly initiatives.
-* **Technological Advancements:** Explores innovative technologies such as AR/VR, blockchain, and IoT to further enrich customer engagement and operational efficiencies.
 
 ## Tech Stack
 * Web Scraping: **Selenium**
