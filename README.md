@@ -31,7 +31,7 @@ neglect of eco-friendly shopping practices, and inefficient inventory management
 ## Tech Stack
 * Web Scraping: **Selenium**
 * Machine Learning: **TensorFlow**, **Scikit-learn**
-* Backend: **Node.js**, **Python**, **Flask**, **Milvus**
+* Backend: **Python**, **Flask**, **MongoDB**
 * Frontend: **JavaScript**, **React**, **Tailwind CSS**
 
 
